@@ -1,0 +1,3 @@
+MATCH ()-[r:BERKUT]->() with distinct properties(r) as uniqueProps
+unwind keys(uniqueProps) as propName
+return DISTINCT propName
