@@ -8,8 +8,7 @@ import javax.persistence.Lob;
 import javax.persistence.Table;
 import java.util.Arrays;
 
-//@Entity
-//@Table(name = "photo", schema = "import_fl")
+
 public class photoDb {
     @Id
     private String iin;

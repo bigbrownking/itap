@@ -14,7 +14,6 @@ public class PublicKeyLoader {
         String publicKeyPEMStart = "-----BEGIN PUBLIC KEY-----";
         String publicKeyPEMEnd = "-----END PUBLIC KEY-----";
 
-        // Remove headers/footers and whitespace
         publicKeyPEM = publicKeyPEM
                 .replace(publicKeyPEMStart, "")
                 .replace(publicKeyPEMEnd, "")

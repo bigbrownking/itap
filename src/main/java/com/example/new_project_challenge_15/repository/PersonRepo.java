@@ -10,9 +10,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 @Repository
 public interface PersonRepo extends Neo4jRepository<Persons,Long> {
-//    final String query1 = "with 3 as d MATCH p=(n:Person)-[*1..3]-() RETURN p LIMIT 20";
-//    @Query("WITH {0} as d MATCH (startNode:Person) WHERE startNode.`ИИН` = {1} OPTIONAL MATCH p = (startNode)-[r*1..{0}]-(endNode) WHERE ALL(rel in relationships(p) WHERE type(rel) in {2}) AND length(p)<=d WITH DISTINCT p as paths LIMIT {3} RETURN COLLECT(distinct paths)")
-//    List<Persons2> getPersonTreee(int depth, String person, List<String> relations, int limit);
+
     @Query("MATCH (startNode)-[r]-(f)\n" +
             "WHERE id(startNode) = $ID return count(r)")
     Long countRels(Long ID);
@@ -196,7 +194,6 @@ public interface PersonRepo extends Neo4jRepository<Persons,Long> {
     @Query("WITH $params.depth as d MATCH (startNode:Person) WHERE startNode.`ИИН` = ($params.person) OPTIONAL MATCH p = (startNode)-[*1..$depth]-(endNode) WHERE ALL(rel in relationships(p) WHERE type(rel) in $params.relations) AND length(p)<=d WITH DISTINCT p as paths LIMIT $params.limit RETURN COLLECT(distinct paths)")
     List<Persons> getPersonTree(@Param("params") Value params, @Param("depth") Value depth);
 
-//    @Query("MATCH (startNode) WHERE id(startNode)=$ID OPTIONAL MATCH p = (startNode)-[r]-(endNode) WHERE ALL(rel in relationships(p) WHERE type(rel) in $relations) WITH DISTINCT p as paths RETURN COLLECT(distinct paths)")
     @Query("MATCH (startNode) WHERE id(startNode) = $ID OPTIONAL MATCH p = (startNode)-[*1..1]-(endNode) WHERE ALL(rel in relationships(p) WHERE type(rel) in $RELS) AND length(p)<=1 WITH DISTINCT p as paths LIMIT $LIMIT RETURN COLLECT(distinct paths)")
     List<Persons> shortOpen(Long ID, List<String> RELS, int LIMIT);
 

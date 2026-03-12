@@ -25,30 +25,6 @@ public class statisticService {
     @Autowired
     LogRepo logRepo;
 
-//    public void userBan(Long id){
-//        User user = userRepository.findById(id);
-//        if(user != null){
-//            if(user.isActive()) {
-//                user.setActive(false);
-//            }else{
-//                user.setActive(true);
-//            }
-//        }
-//        userRepository.save(user);
-//    }
-//    public void userSetAdministrator(Long id){
-//        User user = userRepository.findById(id);
-//        Set<Role> roles = new HashSet<>();
-//        Role userRole = roleRepository.findByName(ERole.VIP)
-//                .orElseThrow(() -> new RuntimeException("Error: Role is not found."));
-//        if(user.getRoles().contains("VIP")){
-//            user.getRoles().remove("VIP");
-//        }else{
-//            roles.add(userRole);
-//            user.setRoles(roles);
-//        }
-//        userRepository.save(user);
-//    }
     public List<User> get3users1(){
         return userRepository.get3users1();
     }
@@ -60,7 +36,6 @@ public class statisticService {
         User user = userRepository.findByUsernameTwo(username);
         statisticModel stat = new statisticModel();
         try {
-//            log lastLog = logRepo.findLastDate(username);
             stat.setDate(logRepo.findLastDate(username));
         } catch (Exception e) {
             System.out.println(e);
@@ -71,13 +46,6 @@ public class statisticService {
         stat.setUser(user);
         stat.setRole(userRepository.getRoleById(username));
         stat.setTodayRequsetNum(logRepo.findTodayRequestNum(username));
-        return stat;
-    }
-
-    public statisticModel general() {
-        statisticModel stat = new statisticModel();
-        stat.setAllRequsetNum(userRepository.getUserNum());
-        stat.setTodayRequsetNum(logRepo.Number());
         return stat;
     }
 }

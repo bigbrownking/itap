@@ -25,22 +25,7 @@ import java.util.List;
 public class ZAGSDBController {
     @Autowired
 
-    UserDetailsServiceImpl userDetailsService;    @Autowired
-
-    com.example.new_project_challenge_15.service.statisticService statisticService;    @Autowired
-
-    LogRepo logRepo;
-
-    @Autowired
-    UserRepository userRepository;
-
-
-    @Autowired
-    LogsService logsService;
-    @Autowired
-    RoleRepository roleRepository;
-    @Autowired
-    UserRolesRepo userRolesRepo;
+    UserDetailsServiceImpl userDetailsService;
 
     @Autowired
     ZAGSDBService zagsdbService;

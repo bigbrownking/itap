@@ -17,7 +17,7 @@ public class SignupRequest {
 
   @Size(min = 1, max = 40)
   private String password;
-  //  @NotBlank
+
   private String level;
   @Lob
   private String user_photo;

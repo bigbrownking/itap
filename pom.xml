@@ -17,12 +17,6 @@
         <java.version>1.8</java.version>
     </properties>
     <dependencies>
-
-        <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-neo4j -->
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webflux -->
-<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-webflux -->
-
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-neo4j</artifactId>
@@ -43,29 +37,6 @@
             <artifactId>reactor-test</artifactId>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webflux -->
-<!--        <dependency>-->
-<!--            <groupId>org.springframework</groupId>-->
-<!--            <artifactId>spring-webflux</artifactId>-->
-<!--            <version>6.1.4</version>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>org.springframework.boot</groupId>-->
-<!--            <artifactId>spring-boot-starter-actuator</artifactId>-->
-<!--        </dependency>-->
-<!--        &lt;!&ndash; https://mvnrepository.com/artifact/io.micrometer/micrometer-core &ndash;&gt;-->
-<!--        &lt;!&ndash; https://mvnrepository.com/artifact/io.micrometer/micrometer-core &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>io.micrometer</groupId>-->
-<!--            <artifactId>micrometer-core</artifactId>-->
-<!--            <version>1.12.4</version>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>org.springframework.boot</groupId>-->
-<!--            <artifactId>spring-boot-starter-webflux</artifactId>-->
-<!--            <version>3.1.2</version>-->
-<!--        </dependency>-->
-
         <dependency>
             <groupId>org.testcontainers</groupId>
             <artifactId>junit-jupiter</artifactId>
@@ -94,9 +65,6 @@
             <artifactId>postgresql</artifactId>
             <scope>runtime</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.neo4j.driver/neo4j-java-driver -->
-
-
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt</artifactId>
@@ -112,7 +80,6 @@
             <version>1.15.3</version>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>
             <groupId>io.github.cdimascio</groupId>
             <artifactId>java-dotenv</artifactId>
@@ -166,13 +133,6 @@
             <artifactId>webdrivermanager</artifactId>
             <version>2.2.3</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webflux -->
-        <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-webflux -->
-
-        <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
-
-
-
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>

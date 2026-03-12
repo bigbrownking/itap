@@ -16,8 +16,6 @@ import javax.net.ssl.SSLContext;
 
 @Service
 public class newPhotoService {
-//    @Autowired
-//   com.example.new_project_challenge_15.repositoryPhoto.newPhotoRepo newPhotoRepo;
 
 public RestTemplate restTemplate() throws Exception {
         SSLContext sslContext = SSLContextBuilder
@@ -27,7 +25,7 @@ public RestTemplate restTemplate() throws Exception {
 
         CloseableHttpClient httpClient = HttpClients.custom()
                 .setSSLContext(sslContext)
-                .setSSLHostnameVerifier(NoopHostnameVerifier.INSTANCE)  // Disable hostname verification
+                .setSSLHostnameVerifier(NoopHostnameVerifier.INSTANCE)
                 .build();
 
         HttpComponentsClientHttpRequestFactory factory = new HttpComponentsClientHttpRequestFactory(httpClient);
@@ -47,8 +45,5 @@ public RestTemplate restTemplate() throws Exception {
         return photo;
     }
 
-//public photoDb getPhotoByIIN(String iin){
-//                return newPhotoRepo.findByIin(iin);
-//        }
 }
 

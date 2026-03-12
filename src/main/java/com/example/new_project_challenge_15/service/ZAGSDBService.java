@@ -264,7 +264,6 @@ public class ZAGSDBService {
                 Object value = field.get(obj);
                 properties.put(field.getName(), value);
             } catch (IllegalAccessException e){
-//                e.printStackTrace();
             }
         }
 
@@ -280,7 +279,6 @@ public class ZAGSDBService {
                     Object value = field.get(obj);
                     properties.put(field.getName(), value);
                 } catch (IllegalAccessException e){
-//                    e.printStackTrace();
                 }
             }
         } else {
@@ -291,7 +289,6 @@ public class ZAGSDBService {
                         properties.put(field.getName(), value);
                     }
                 } catch (IllegalAccessException e){
-//                    e.printStackTrace();
                 }
             }
         }
@@ -309,8 +306,6 @@ public class ZAGSDBService {
                 Nodes currNode = new Nodes();
                 Map<String, Object> properties = getPropertyMap(User, object);
                 currNode = tryAddPhoto(currNode, object.getIIN());
-//                photoDb photoDb = newPhotoService.getPhotoByIIN(object.getIIN());
-//                currNode.setPhotoDbf(photoDb);
                 currNode.setId(object.getId());
                 currNode.setProperties(properties);
                 nodes.add(currNode);
