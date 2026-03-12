@@ -3,7 +3,6 @@ package com.example.new_project_challenge_15.models;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
-import javax.persistence.UniqueConstraint;
 
 @Entity
 @Table(name = "user_roles")

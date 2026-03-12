@@ -9,9 +9,6 @@ public class doubleReturn {
     private List<Nodes> nodes;
     private List<relationModel> edges;
 
-    public doubleReturn() {
-    }
-
     public doubleReturn(List<Nodes> nodes, List<relationModel> edges) {
         this.nodes = nodes;
         this.edges = edges;

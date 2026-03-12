@@ -1,8 +1,6 @@
 package com.example.new_project_challenge_15.models;
 
 import lombok.NoArgsConstructor;
-import org.springframework.web.bind.annotation.GetMapping;
-
 import javax.persistence.*;
 import java.time.LocalDateTime;
 

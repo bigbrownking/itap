@@ -3,15 +3,9 @@ package com.example.new_project_challenge_15.models;
 import io.hypersistence.utils.hibernate.type.array.ListArrayType;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;
-import org.springframework.data.neo4j.core.schema.Property;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.Size;
-import java.io.Serializable;
 import java.time.LocalDateTime;
-import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 @Entity

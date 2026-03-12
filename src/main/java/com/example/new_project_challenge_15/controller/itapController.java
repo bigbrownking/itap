@@ -11,14 +11,9 @@ import com.example.new_project_challenge_15.security.services.UserDetailsService
 import com.example.new_project_challenge_15.service.*;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.AllArgsConstructor;
-//import org.neo4j.springframework.data.core.Neo4jTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.core.parameters.P;
 import org.springframework.web.bind.annotation.*;
-//import org.springframework.web.reactive.function.client.WebClient;
 
 
 import javax.imageio.ImageIO;
@@ -46,17 +41,9 @@ public class itapController {
     @Autowired
     UserRepository userRepository;
     @Autowired
-    RoleRepository rRepo;
-    @Autowired
-    PersonRepo personRepo;
-    @Autowired
-    CompanyRepo companyRepo;
-    @Autowired
     FiPersonsService personsService;
     @Autowired
     LogsService logsService;
-    @Autowired
-    RoleRepository roleRepository;
     @Autowired
     UserRolesRepo userRolesRepo;
     @Autowired

@@ -1,6 +1,5 @@
 package com.example.new_project_challenge_15.configuration;
 
-import lombok.extern.java.Log;
 import lombok.extern.slf4j.Slf4j;
 import org.neo4j.driver.AuthTokens;
 import org.neo4j.driver.Driver;

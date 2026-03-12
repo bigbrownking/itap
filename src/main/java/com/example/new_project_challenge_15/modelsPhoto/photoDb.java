@@ -2,11 +2,8 @@ package com.example.new_project_challenge_15.modelsPhoto;
 
 import org.hibernate.annotations.Type;
 
-import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Lob;
-import javax.persistence.Table;
-import java.util.Arrays;
 
 
 public class photoDb {

@@ -1,5 +1,5 @@
 package com.example.new_project_challenge_15.entity.RELS_22;
-import com.example.new_project_challenge_15.entity.Company;
+
 import com.example.new_project_challenge_15.entity.Persons;
 import org.springframework.data.neo4j.core.schema.*;
 

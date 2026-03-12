@@ -1,12 +1,11 @@
 package com.example.new_project_challenge_15.service;
 
-import org.springframework.security.core.parameters.P;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
+
 @Service
 public class WeightedRelationSearch {
     private List<String> FirstLevelRels = new ArrayList<>(Arrays.asList("ZAGS", "BLIZKIE_RODS", "OPG", "REG_ADDRESS_CUR"));

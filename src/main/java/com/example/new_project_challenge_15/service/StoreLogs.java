@@ -5,12 +5,12 @@ import com.example.new_project_challenge_15.models.log;
 import com.example.new_project_challenge_15.security.services.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestParam;
 
-import java.security.Principal;
+
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+
 @Service
 public class StoreLogs {
     @Autowired

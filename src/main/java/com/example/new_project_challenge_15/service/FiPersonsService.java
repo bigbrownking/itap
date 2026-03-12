@@ -12,7 +12,6 @@ import com.example.new_project_challenge_15.repository.CompanyRepo;
 import com.example.new_project_challenge_15.repository.PersonRepo;
 import com.example.new_project_challenge_15.repository.RoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.core.parameters.P;
 import org.springframework.stereotype.Service;
 
 import java.lang.reflect.Field;

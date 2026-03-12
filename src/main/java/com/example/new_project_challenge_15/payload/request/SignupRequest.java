@@ -1,7 +1,5 @@
 package com.example.new_project_challenge_15.payload.request;
 
-import org.springframework.web.bind.annotation.RequestParam;
-
 import javax.persistence.Lob;
 import javax.validation.constraints.*;
 import java.util.Set;

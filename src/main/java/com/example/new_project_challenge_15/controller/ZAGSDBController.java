@@ -2,21 +2,13 @@ package com.example.new_project_challenge_15.controller;
 
 import com.example.new_project_challenge_15.entity.DTO.doubleReturn;
 import com.example.new_project_challenge_15.models.User;
-import com.example.new_project_challenge_15.models.log;
-import com.example.new_project_challenge_15.repository.LogRepo;
-import com.example.new_project_challenge_15.repository.RoleRepository;
-import com.example.new_project_challenge_15.repository.UserRepository;
-import com.example.new_project_challenge_15.repository.UserRolesRepo;
 import com.example.new_project_challenge_15.security.services.UserDetailsServiceImpl;
-import com.example.new_project_challenge_15.service.LogsService;
 import com.example.new_project_challenge_15.service.StoreLogs;
 import com.example.new_project_challenge_15.service.ZAGSDBService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.security.Principal;
-import java.time.LocalDateTime;
-import java.util.ArrayList;
 import java.util.List;
 
 @CrossOrigin(origins = "*", maxAge = 3000)
