@@ -1,0 +1,4156 @@
+{
+  "persons": {
+    "omarov_serik": {
+      "iin": "810811200134",
+      "full_name": "ОМАРОВ СЕРИК ИБРАГИМОВИЧ",
+      "phone_numbers": [
+        {
+          "iin": "810811200134",
+          "phone": "+77773456288",
+          "fio": "ОМАРОВ СЕРИК ИБРАГИМОВИЧ",
+          "email": "omarovserik81@gmail.com",
+          "nickname": null,
+          "source": "БМГ",
+          "registrationDate": null,
+          "lastActivityDate": null,
+          "prevOwnerIin": "810811200134",
+          "deviceInfoId": null,
+          "imei": null,
+          "blacklist": null
+        },
+        {
+          "iin": "810811200134",
+          "phone": "+77714026778",
+          "fio": "ОМАРОВ СЕРИК ИБРАГИМОВИЧ",
+          "email": "omarovserik81@gmail.com",
+          "nickname": null,
+          "source": "БМГ",
+          "registrationDate": null,
+          "lastActivityDate": null,
+          "prevOwnerIin": "810811200134",
+          "deviceInfoId": null,
+          "imei": null,
+          "blacklist": null
+        }
+      ],
+      "birth_date": "1981-08-11",
+      "def_transport": [
+        {
+          "iin": "810811200134",
+          "brandModel": "Hyundai Accent",
+          "dateCertificate": "2023-06-19",
+          "seriesRegNumber": "TH00002885",
+          "regNumber": "707ACX01",
+          "categoryControlTc": "B",
+          "vinKuzovShassi": "33020070425989",
+          "engineVolume": "1594",
+          "weight": "1216",
+          "maxWeight": "1652",
+          "ownerCategory": "2",
+          "endDate": null,
+          "color": "Серый",
+          "releaseYearTc": "2020",
+          "specialMarks": null,
+          "registered": true
+        }
+      ],
+      "education": {
+        "universities": [
+          {
+            "university_name": "Евразийский национальный университет",
+            "specialization": "Физическая культура и спорт",
+            "degree_type": "Бакалавр",
+            "course": "4",
+            "duration": "4 года",
+            "start_date": "1999-09-01",
+            "end_date": "2003-06-15",
+            "study_code": "010140003594",
+            "address": "г. Астана ул. Сатбаева д. 2"
+          }
+        ],
+        "schools": [
+          {
+            "school_name": "Средняя школа №25",
+            "school_type": "Общеобразовательная",
+            "grade": "11",
+            "school_code": "025001",
+            "start_date": "1988-09-01",
+            "end_date": "1998-05-25",
+            "address": "г. Петропавловск ул. Ильи Залманова д. 75"
+          }
+        ]
+      },
+      "mvFlList": {
+        "iin": "810811200134",
+        "last_name": "ОМАРОВ",
+        "first_name": "СЕРИК",
+        "patronymic": "ИБРАГИМОВИЧ",
+        "birth_date": "1981-08-11",
+        "citizenship_ru_name": "КАЗАХСТАН",
+        "nationality_ru_name": "КАЗАХ",
+        "life_status_ru_name": "Нормальный",
+        "death_date": null,
+        "district": "C-КАЗАХСТАН",
+        "region": "АКЖАРСКИЙ РАЙОН",
+        "_resident": true
+      },
+      "photoDbs": [
+        {
+          "iin": "810811200134",
+          "document_type_id": "2",
+          "photo": "images/Серик.png",
+          "date": "1997-08-11 09:22:50"
+        }
+      ],
+      "def_rn": [
+        {
+          "cadastral_number": "17:032:0003256:0142",
+          "rka_code": "1201300987654321",
+          "estate_remove_date": null,
+          "intended_use_rus": "квартира",
+          "intended_use_kaz": "пәтер",
+          "estate_status_rus": "актуальная",
+          "estate_status_kaz": "өзекті",
+          "address_rus": "г. Астана, ул. Туран, д. 30, кв. 81",
+          "address_kaz": "г. Астана, ул. Туран, д. 30, кв. 81",
+          "address_history_rus": null,
+          "address_history_kaz": null,
+          "type_of_property_rus": "Первичный объект",
+          "type_of_property_kaz": "Первичный объект",
+          "property_type_rus": null,
+          "property_type_kaz": null,
+          "area_total": "85.3",
+          "area_useful": "73.5",
+          "floor": "25/30",
+          "estate_characteristic_status_rus": "актуальная",
+          "estate_characteristic_status_kaz": "өзекті",
+          "register_record_number": "12",
+          "register_transaction_amount": "31000000",
+          "register_reg_date": "2025-02-15",
+          "register_end_date": null,
+          "register_emergence_rights_rus": "Договор купли-продажи № 19-2501-7845 от 15 февраль 2025г., нотариус АБДУЛЛАЕВ М. К. лицензия № 0003456 от 15-06-2010г.. Дата регистрации: 15.02.2025 14:25",
+          "register_emergence_rights_kaz": null,
+          "register_termination_reason": null,
+          "register_status_rus": "актуальная",
+          "register_status_kaz": "өзекті",
+          "owner_full_name": "СМИРНОВ АЛЕКСЕЙ ИВАНОВИЧ"
+        }
+      ],
+      "riskPercentage": 12.0,
+      "docs": [
+        {
+          "iin": "810811200134",
+          "doc_number": "812563412",
+          "doc_type_id": "2",
+          "doc_type_ru_name": "УДОСТОВЕРЕНИЕ РК",
+          "issue_date": "2017-08-15",
+          "expiry_date": "2027-08-15",
+          "document_invalidity_id": "0",
+          "document_invalidity_ru_name": "ДОКУМЕНТ ДЕЙСТВИТЕЛЕН",
+          "document_invalidity_date": null,
+          "issue_organization_id": "2",
+          "issue_organization_ru_name": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК"
+        },
+        {
+          "iin": "810811200134",
+          "doc_number": "N81256341",
+          "doc_type_id": "1",
+          "doc_type_ru_name": "ПАСПОРТ РК",
+          "issue_date": "2021-10-13",
+          "expiry_date": "2031-10-12",
+          "document_invalidity_id": "0",
+          "document_invalidity_ru_name": "ДОКУМЕНТ ДЕЙСТВИТЕЛЕН",
+          "document_invalidity_date": null,
+          "issue_organization_id": "2",
+          "issue_organization_ru_name": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК"
+        }
+      ],
+      "address": {
+        "IIN": "810811200134",
+        "fio": "Омаров Серик Ибрагимович",
+        "ADDRESS_DATE": "2003-08-18 00:00:00",
+        "ADDRESS_END_DATE": null,
+        "RKA": "1201300154834825",
+        "RN_ADDRESS_RU": null,
+        "RN_ADDRESS_HISTORY_RU": null,
+        "DISTRICT": "Ц-КАЗАХСТАНСКАЯ",
+        "CITY": null,
+        "REGION": "АСТАНА",
+        "STREET": "УЛИЦА ТУРАН",
+        "BUILDING": "30",
+        "CORPUS": null,
+        "FLAT": "81",
+        "id": "6b95a265-7adb-4319-b7c8-1792f47a6f11",
+        "region": "АСТАНА",
+        "iin": "810811200134",
+        "rnAddressRu": null,
+        "rka": "1201300154834825",
+        "building": "30",
+        "corpus": null,
+        "flat": "81",
+        "district": "Ц-КАЗАХСТАНСКАЯ",
+        "street": "УЛИЦА ТУРАНА",
+        "addressDate": "2003-08-18 00:00:00",
+        "addressEndDate": null,
+        "rnAddressHistoryRu": null,
+        "city": null
+      },
+      "insurance_policies": [
+        {
+          "policy_number": "POL001",
+          "plate_number": "707ACX01",
+          "period": "2000-01-01 - 2025-01-01",
+          "insured_persons": [
+            {
+              "iin": "780728300118",
+              "name": "АКИМОВ ТАЛГАТ АМАНБАЕВИЧ",
+              "birth_date": "1978-07-28",
+              "period": "2023-10-09"
+            },
+            {
+              "iin": "780909200134",
+              "name": "АХМЕТОВА АЙГЕРИМ ЖАКСЫЛЫККЫЗЫ",
+              "birth_date": "1978-09-09",
+              "period": "2025-10-15"
+            },
+            {
+              "iin": "630308302418",
+              "name": "АРИПБАЕВ ТАЛАС КАЛАБАЕВИЧ",
+              "birth_date": "1963-03-08",
+              "period": "2023-08-26"
+            },
+            {
+              "iin": "810811200134",
+              "name": "ОМАРОВ СЕРИК ИБРАГИМОВИЧ",
+              "birth_date": "1979-06-12",
+              "period": "2023-07-19"
+            }
+          ]
+        }
+      ],
+      "flight_bookings": [
+        {
+          "airport_depart_value": "Астана (NQZ)",
+          "departure_location_code": "NQZ",
+          "departure_date_time": "2025-01-15 08:30:00",
+          "airport_arrival_value": "Алматы (ALA)",
+          "arrival_location_code": "ALA",
+          "arrival_date_time": "2025-01-15 10:15:00",
+          "airline_value": "Air Astana",
+          "flight_code": "KC154",
+          "seat_number": "1A",
+          "fopc_value": "Бизнес"
+        },
+        {
+          "airport_depart_value": "Алматы (ALA)",
+          "departure_location_code": "ALA",
+          "departure_date_time": "2025-02-09 14:45:00",
+          "airport_arrival_value": "Семей (PLX)",
+          "arrival_location_code": "PLX",
+          "arrival_date_time": "2025-02-09 16:20:00",
+          "airline_value": "SCAT",
+          "flight_code": "EK134",
+          "seat_number": "2F",
+          "fopc_value": "первый класс"
+        }
+      ],
+      "military": {
+        "bin": "070440014591",
+        "dateStart": "2003-09-01",
+        "iin": "810811200134",
+        "dateEnd": "2004-09-01",
+        "binName": "Республиканское государственное учреждение Войсковая часть 48386 Министерства обороны Республики Казахстан"
+      },
+      "business": {
+        "previous_companies": [
+        ],
+        "pension_contributions": [
+          {
+            "bin": "170640013968",
+            "company": "Товарищество с ограниченной ответственностью \"iTaxi\"",
+            "period": "2018",
+            "sum010": "8132",
+            "sum012": "81320"
+          },
+          {
+            "bin": "170640013968",
+            "company": "Товарищество с ограниченной ответственностью \"iTaxi\"",
+            "period": "2019",
+            "sum010": "9174",
+            "sum012": "91746"
+          },
+          {
+            "bin": "170640013968",
+            "company": "Товарищество с ограниченной ответственностью \"iTaxi\"",
+            "period": "2020",
+            "sum010": "12590",
+            "sum012": "125900"
+          },
+          {
+            "bin": "170640013968",
+            "company": "Товарищество с ограниченной ответственностью \"iTaxi\"",
+            "period": "2021",
+            "sum010": "16780",
+            "sum012": "167800"
+          },
+          {
+            "bin": "170340026601",
+            "company": "Товарищество с ограниченной ответственностью ASTANA TAXI SERVICE",
+            "period": "2022",
+            "sum010": "26000",
+            "sum012": "260000"
+          },
+          {
+            "bin": "170340026601",
+            "company": "Товарищество с ограниченной ответственностью ASTANA TAXI SERVICE",
+            "period": "2023",
+            "sum010": "26000",
+            "sum012": "260000"
+          },
+          {
+            "bin": "170340026601",
+            "company": "Товарищество с ограниченной ответственностью ASTANA TAXI SERVICE",
+            "period": "2024",
+            "sum010": "26000",
+            "sum012": "260000"
+          },
+          {
+            "bin": "170340026601",
+            "company": "Товарищество с ограниченной ответственностью ASTANA TAXI SERVICE",
+            "period": "2025",
+            "sum010": "26000",
+            "sum012": "260000"
+          }
+        ]
+      },
+      "sudispols": [
+        {
+          "id": 5424742,
+          "name_of_organ": "Частные судебные исполнители г. Астана",
+          "name_of_layer": "Абдиков Мейрам Беккулович",
+          "number_of_man": "7631/21-47-5512",
+          "date_initiation": "2023-08-26",
+          "category_requirements": "взыскание суммы",
+          "addition_category": "взыскание в пользу юридических лиц и предпринимателей",
+          "amount": "115754",
+          "debtor_iin": "810811200134",
+          "debtor_lastname": "ОМАРОВ",
+          "debtor_firstname": "СЕРИК",
+          "debtor_middlename": "ИБРАГИМОВИЧ",
+          "over_proceeding": "Нет",
+          "grounds_termination": "",
+          "return_doc": "",
+          "protest": "",
+          "date_termination": "1970-01-01",
+          "suspended": "",
+          "denied_initiation": "",
+          "recoverer": "Товарищество с ограниченной ответственностью \"Коллекторское агентство \"Эксперт Плюс\"",
+          "iin_recoverer": "151040003422"
+        },
+        {
+          "name_of_organ": "Филиал \"Отдел по взысканию алиментов\" ДИСА г. Нур-Султан",
+          "name_of_layer": "Сарсенбаева А. К.",
+          "number_of_man": "07843-14-71-0122",
+          "date_initiation": "2022-12-15",
+          "category_requirements": "взыскание алиментов",
+          "addition_category": "взыскание в пользу граждан",
+          "amount": 80000.0,
+          "debtor_lastname": "ОМАРОВ",
+          "debtor_firstname": "СЕРИК",
+          "debtor_middlename": "ИБРАГИМОВИЧ",
+          "debtor_iin": "810811200134",
+          "debtor_bin": "",
+          "name_organization": "",
+          "work_in": "неизвестно",
+          "position_work": "недолжностное лицо",
+          "recoverer": "",
+          "firstname_recoverer": "АРЫСТАНОВА ",
+          "lastname_recoverer": "ЛАУРА",
+          "middlename_recoverer": "РАИМБАЕВНА",
+          "iin_recoverer": "801127401749",
+          "over_proceeding": "Нет",
+          "grounds_termination": "",
+          "return_doc": "",
+          "protest": "",
+          "date_termination": "1970-01-01",
+          "suspended": "",
+          "denied_initiation": "",
+          "id": 2645491
+        },
+        {
+          "name_of_organ": "Филиал \"Отдел по взысканию алиментов\" ДИСА г. Нур-Султан",
+          "name_of_layer": "Сарсенбаева А. К.",
+          "number_of_man": "07843-14-71-8955",
+          "date_initiation": "2023-12-15",
+          "category_requirements": "взыскание алиментов",
+          "addition_category": "взыскание в пользу граждан",
+          "amount": 80000.0,
+          "debtor_lastname": "ОМАРОВ",
+          "debtor_firstname": "СЕРИК",
+          "debtor_middlename": "ИБРАГИМОВИЧ",
+          "debtor_iin": "810811200134",
+          "debtor_bin": "",
+          "name_organization": "",
+          "work_in": "неизвестно",
+          "position_work": "недолжностное лицо",
+          "recoverer": "",
+          "firstname_recoverer": "АРЫСТАНОВА ",
+          "lastname_recoverer": "ЛАУРА",
+          "middlename_recoverer": "РАИМБАЕВНА",
+          "iin_recoverer": "801127401749",
+          "over_proceeding": "Нет",
+          "grounds_termination": "",
+          "return_doc": "",
+          "protest": "",
+          "date_termination": "1970-01-01",
+          "suspended": "",
+          "denied_initiation": "",
+          "id": 2645492
+        }
+      ],
+      "adms": [
+        {
+          "two": "5000000015441174",
+          "org_identify_crime": "19316603",
+          "authority_detected": "ОВД г. Астана",
+          "divisions_ovd": "УИП МПС ШУ РОВД",
+          "material_num": "203166033009225",
+          "language_prod": null,
+          "reg_date": "2020-11-23",
+          "protocol_num": null,
+          "protocol_date": null,
+          "kui_number": null,
+          "kui_date": null,
+          "erdr_number": null,
+          "erdr_date": null,
+          "fifteen": "БАҚБЕРГЕНОВ БАЙЖАН МАЛИКҰЛЫ",
+          "sixteen": "23.11.2020",
+          "seventeen": "01",
+          "eighteen": "4490001",
+          "nineteen": " ",
+          "twenty": null,
+          "twenty_one": null,
+          "surname": "ОМАРОВ",
+          "firstname": "СЕРИК",
+          "secondname": "ИБРАГИМОВИЧ",
+          "birth_date": "1981-08-11",
+          "citizenship": "017",
+          "nationality": "Казах",
+          "iin": "810811200134",
+          "work_place": "не работает",
+          "phone_num": null,
+          "email": null,
+          "ul_org_name": null,
+          "ul_adress": null,
+          "bin": null,
+          "vehicle_brand": null,
+          "state_auto_num": null,
+          "qualification": "4490001",
+          "enforcement": null,
+          "id": "499986",
+          "maim_measure": "01",
+          "end_date": null,
+          "fine_amount": null,
+          "teminate_reason": null,
+          "source": null,
+          "thirty_seven": "5000000025145621",
+          "thirty_eight": "19316603",
+          "thirty_nine": "ОВД г. Астана",
+          "fourty": "203166033009225",
+          "fourty_two": null,
+          "fourty_three": "09",
+          "fourty_four": "2020-11-23",
+          "fourty_nine": null,
+          "fifty_one": null,
+          "fifty_two": null,
+          "fifty_three": null,
+          "fifty_four": null,
+          "fifty_five": null,
+          "fifty_six": "11 Мобильное приложение ЕРАП",
+          "qualification_name": "ст. 593 ч.1 Нарушение правил дорожного движения"
+        }
+      ],
+      "connections": [
+        {
+          "iin": "600121350674",
+          "name": "ОМАРОВ ДУСЕМБАЙ КАПАНОВИЧ",
+          "relationship": "ОТЕЦ"
+        },
+        {
+          "iin": "630308302418",
+          "name": "АРИПБАЕВ ТАЛАС КАЛАБАЕВИЧ",
+          "relationship": "ОТЕЦ-БРАТ(ДЯДЯ)"
+        },
+        {
+          "iin": "520320400054",
+          "name": "АБДЫХАЛЫКОВА КУЛЬЗАХИРА АЗИМХАНОВНА",
+          "relationship": "МАТЬ"
+        },
+        {
+          "iin": "790208200894",
+          "name": "ТЛЕУБЕРГЕНОВА АЙЖАН ЖАКСЫЛЫККЫЗЫ",
+          "relationship": "ЖЕНА"
+        },
+        {
+          "iin": "801127401749",
+          "name": "АРЫСТАНОВА ЛАУРА РАИМБАЕВНА",
+          "relationship": "(БЫВШАЯ)ЖЕНА"
+        },
+        {
+          "iin": "221120653249",
+          "name": "АРЫСТАНОВА АМИНА НУРЛАНОВНА",
+          "relationship": "(БЫВШАЯ)ЖЕНА-ДОЧЬ"
+        },
+        {
+          "iin": "130528602390",
+          "name": "АРЫСТАНОВА САБИНА НУРЛАНОВНА",
+          "relationship": "(БЫВШАЯ)ЖЕНА-ДОЧЬ"
+        },
+        {
+          "iin": "061130550436",
+          "name": "АРЫСТАНОВ АСАН НУРЛАНОВИЧ",
+          "relationship": "(БЫВШАЯ)ЖЕНА-СЫН"
+        }
+      ]
+    },
+    "akhmetova_aigerim": {
+      "iin": "780909200134",
+      "full_name": "АХМЕТОВА АЙГЕРИМ ЖАКСЫЛЫККЫЗЫ",
+      "birth_date": "1978-09-09",
+      "phone_numbers": [
+        {
+          "iin": "780909200134",
+          "phone": "+77714026756",
+          "fio": "АХМЕТОВА АЙГЕРИМ ЖАКСЫЛЫККЫЗЫ",
+          "email": "ahmetova1978@gmail.com",
+          "nickname": null,
+          "source": "БМГ",
+          "registrationDate": null,
+          "lastActivityDate": null,
+          "prevOwnerIin": "780909200134",
+          "deviceInfoId": null,
+          "imei": null,
+          "blacklist": null
+        },
+        {
+          "iin": "780909200134",
+          "phone": "+77773456223",
+          "fio": "АХМЕТОВА АЙГЕРИМ ЖАКСЫЛЫККЫЗЫ",
+          "email": "ahmetova1978@gmail.com",
+          "nickname": null,
+          "source": "БМГ",
+          "registrationDate": null,
+          "lastActivityDate": null,
+          "prevOwnerIin": "780909200134",
+          "deviceInfoId": null,
+          "imei": null,
+          "blacklist": null
+        }
+      ],
+      "def_transport": [
+        {
+          "iin": "780909200134",
+          "brandModel": "Zeekr 7X I",
+          "dateCertificate": "2024-01-15",
+          "seriesRegNumber": "TH00005285",
+          "regNumber": "757ACB01",
+          "categoryControlTc": "C",
+          "vinKuzovShassi": "33020079625989",
+          "engineVolume": "",
+          "weight": "2320",
+          "maxWeight": "2810",
+          "ownerCategory": "2",
+          "endDate": null,
+          "color": "Белый",
+          "releaseYearTc": "2024",
+          "specialMarks": null,
+          "registered": true
+        }
+      ],
+      "docs": [
+        {
+          "iin": "780909200134",
+          "doc_number": "782563412",
+          "doc_type_id": "2",
+          "doc_type_ru_name": "УДОСТОВЕРЕНИЕ РК",
+          "issue_date": "2024-09-12",
+          "expiry_date": "2034-09-12",
+          "document_invalidity_id": "0",
+          "document_invalidity_ru_name": "ДОКУМЕНТ ДЕЙСТВИТЕЛЕН",
+          "document_invalidity_date": null,
+          "issue_organization_id": "2",
+          "issue_organization_ru_name": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК"
+        },
+        {
+          "iin": "780909200134",
+          "doc_number": "N78256341",
+          "doc_type_id": "1",
+          "doc_type_ru_name": "ПАСПОРТ РК",
+          "issue_date": "2023-10-13",
+          "expiry_date": "2033-10-12",
+          "document_invalidity_id": "0",
+          "document_invalidity_ru_name": "ДОКУМЕНТ ДЕЙСТВИТЕЛЕН",
+          "document_invalidity_date": null,
+          "issue_organization_id": "2",
+          "issue_organization_ru_name": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК"
+        }
+      ],
+      "education": {
+        "universities": [
+          {
+            "university_name": "Казахский Национальный Университет им. аль-Фараби",
+            "specialization": "Педагогика",
+            "degree_type": "Бакалавр",
+            "course": "4",
+            "duration": "4 года",
+            "start_date": "1996-09-01",
+            "end_date": "2000-06-15",
+            "study_code": "250140000153",
+            "address": "г. Алматы пр. Аль-Фараби д. 71"
+          }
+        ],
+        "schools": [
+          {
+            "school_name": "Средняя школа №15",
+            "school_type": "Общеобразовательная",
+            "grade": "11",
+            "school_code": "015001",
+            "start_date": "1984-09-01",
+            "end_date": "1995-05-25",
+            "address": "г. Караганда ул. Сатыбалдина д. 19"
+          }
+        ]
+      },
+      "mvFlList": {
+        "id": "5f9176fc-f70a-49bc-887d-b9ffc8fa8c52",
+        "iin": "780909200134",
+        "last_name": "АХМЕТОВА",
+        "first_name": "АЙГЕРИМ",
+        "patronymic": "ЖАКСЫЛЫККЫЗЫ",
+        "birth_date": "1978-09-09",
+        "citizenship_id": "105",
+        "citizenship_ru_name": "КАЗАХСТАН",
+        "nationality_id": "135",
+        "nationality_ru_name": "КАЗАХ",
+        "life_status_id": "1",
+        "life_status_ru_name": "Нормальный",
+        "death_date": null,
+        "district": "КАРАГАНДИНСКАЯ",
+        "region": "КАРАГАНДА",
+        "_resident": true
+      },
+      "photoDbs": [
+        {
+          "iin": "780909200134",
+          "document_type_id": "2",
+          "photo": "images/aigerim.png",
+          "date": "1997-08-15 09:22:50"
+        }
+      ],
+      "riskPercentage": 5.0,
+      "address": {
+        "IIN": "780909200134",
+        "fio": "АХМЕТОВА АЙГЕРИМ ЖАКСЫЛЫККЫЗЫ",
+        "ADDRESS_DATE": "2003-08-18 00:00:00",
+        "ADDRESS_END_DATE": null,
+        "RKA": "1201300154834825",
+        "RN_ADDRESS_RU": null,
+        "RN_ADDRESS_HISTORY_RU": null,
+        "DISTRICT": "Ц-КАЗАХСТАНСКАЯ",
+        "CITY": null,
+        "REGION": "АСТАНА",
+        "STREET": "УЛИЦА Р.КОШКАРБАЕВА",
+        "BUILDING": "10",
+        "CORPUS": null,
+        "FLAT": "52",
+        "id": "6b95a265-7adb-4319-b7c8-1792f47a6f11",
+        "region": "АСТАНА",
+        "iin": "780909200134",
+        "rnAddressRu": null,
+        "rka": "1201300154834825",
+        "building": "10",
+        "corpus": null,
+        "flat": "52",
+        "district": "Ц-КАЗАХСТАНСКАЯ",
+        "street": "УЛИЦА Р.КОШКАРБАЕВА",
+        "addressDate": "2003-08-18 00:00:00",
+        "addressEndDate": null,
+        "rnAddressHistoryRu": null,
+        "city": null
+      },
+      "business": {
+        "previous_companies": [],
+        "pension_contributions": [
+          {
+            "bin": "010140002030",
+            "company": "Государственные учреждение \"Аппарат акима города Астаны\"",
+            "period": "2005",
+            "sum010": "250000",
+            "sum012": "25000"
+          }
+        ]
+      },
+      "adms": [
+        {
+          "two": "5000000015441174",
+          "org_identify_crime": "19316603",
+          "authority_detected": "ОВД г. Астана",
+          "divisions_ovd": "УИП МПС ШУ РОВД",
+          "material_num": "203166033009225",
+          "language_prod": null,
+          "reg_date": "2020-11-23",
+          "protocol_num": null,
+          "protocol_date": null,
+          "kui_number": null,
+          "kui_date": null,
+          "erdr_number": null,
+          "erdr_date": null,
+          "fifteen": "АХМЕТОВА АЙГЕРИМ ЖАКСЫЛЫККЫЗЫ",
+          "sixteen": "23.11.2020",
+          "seventeen": "01",
+          "eighteen": "4490001",
+          "nineteen": "",
+          "twenty": null,
+          "twenty_one": null,
+          "surname": "АХМЕТОВА",
+          "firstname": "АЙГЕРИМ",
+          "secondname": "ЖАКСЫЛЫККЫЗЫ",
+          "birth_date": "1978-09-09",
+          "citizenship": "017",
+          "nationality": "Казах",
+          "iin": "780909200134",
+          "work_place": "не работает",
+          "phone_num": null,
+          "email": null,
+          "ul_org_name": null,
+          "ul_adress": null,
+          "bin": null,
+          "vehicle_brand": null,
+          "state_auto_num": null,
+          "qualification": "4490001",
+          "enforcement": null,
+          "id": "499986",
+          "maim_measure": "01",
+          "end_date": null,
+          "fine_amount": null,
+          "teminate_reason": null,
+          "source": null,
+          "thirty_seven": "5000000025145621",
+          "thirty_eight": "19316603",
+          "thirty_nine": "ОВД г. Астана",
+          "fourty": "203166033009225",
+          "fourty_two": null,
+          "fourty_three": "09",
+          "fourty_four": "2020-11-23",
+          "fourty_nine": null,
+          "fifty_one": null,
+          "fifty_two": null,
+          "fifty_three": null,
+          "fifty_four": null,
+          "fifty_five": null,
+          "fifty_six": "",
+          "qualification_name": "ст. 593 ч.1 Нарушение правил дорожного движения"
+        }
+      ],
+      "flight_bookings": [
+        {
+          "airport_depart_value": "Астана (NQZ)",
+          "departure_location_code": "NQZ",
+          "departure_date_time": "2025-01-15 08:30:00",
+          "airport_arrival_value": "Алматы (ALA)",
+          "arrival_location_code": "ALA",
+          "arrival_date_time": "2025-01-15 10:15:00",
+          "airline_value": "Air Astana",
+          "flight_code": "KC154",
+          "seat_number": "2A",
+          "fopc_value": "Бизнес"
+        },
+        {
+          "airport_depart_value": "Алматы (ALA)",
+          "departure_location_code": "ALA",
+          "departure_date_time": "2025-02-09 14:45:00",
+          "airport_arrival_value": "Семей (PLX)",
+          "arrival_location_code": "PLX",
+          "arrival_date_time": "2025-02-09 16:20:00",
+          "airline_value": "SCAT",
+          "flight_code": "EK134",
+          "seat_number": "1F",
+          "fopc_value": "первый класс"
+        }
+      ],
+      "connections": [
+        {
+          "iin": "780130259510",
+          "name": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+          "relationship": "МУЖ"
+        },
+        {
+          "iin": "980925350820",
+          "name": "АРЫНОВ НУРЖАН ТАЛГАТОВИЧ",
+          "relationship": "СЫН"
+        },
+        {
+          "iin": "080225552484",
+          "name": "АРЫНОВ НУРШАТ ТАЛҒАТҰЛЫ",
+          "relationship": "СЫН"
+        },
+        {
+          "iin": "991221450616",
+          "name": "АРЫНОВА НУРАЙ ТАЛГАТОВНА",
+          "relationship": "ДОЧЬ"
+        },
+        {
+          "iin": "600626300356",
+          "name": "ТАМПИШЕВ ЖАКСЫЛЫК АХМЕТОВИЧ",
+          "relationship": "ОТЕЦ",
+          "marriage_reg_date": "1977-06-12"
+        },
+        {
+          "iin": "",
+          "name": "ИСТИМИРОВА (ТАМПИШЕВА) КУРАЛАЙ ХАСЕНОВНА",
+          "relationship": "МАМА",
+          "marriage_reg_date": "1977-06-12"
+        },
+        {
+          "iin": "790208200894",
+          "name": "ТЛЕУБЕРГЕНОВА АЙЖАН ЖАКСЫЛЫККЫЗЫ",
+          "relationship": "СЕСТРА"
+        },
+        {
+          "iin": "810811200134",
+          "name": "ОМАРОВ СЕРИК ИБРАГИМОВИЧ",
+          "relationship": "СЕСТРА - МУЖ"
+        }
+      ]
+    },
+    "arynov_talgat": {
+      "iin": "780130259510",
+      "full_name": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+      "birth_date": "1978-01-30",
+      "birth_place": "г.Есиль, Есильский район, Акмолинская область",
+      "ip_registration": false,
+      "phone_numbers": [
+        {
+          "iin": "780130259510",
+          "phone": "+77714026777",
+          "fio": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+          "email": "arynovtalgat78@mail.ru",
+          "nickname": null,
+          "source": "БМГ",
+          "registrationDate": null,
+          "lastActivityDate": null,
+          "prevOwnerIin": "780130259510",
+          "deviceInfoId": null,
+          "imei": null,
+          "blacklist": null
+        },
+        {
+          "iin": "780130259510",
+          "phone": "+77773456288",
+          "fio": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+          "email": "arynovtalgat78@mail.ru",
+          "nickname": null,
+          "source": "БМГ",
+          "registrationDate": null,
+          "lastActivityDate": null,
+          "prevOwnerIin": "780130259510",
+          "deviceInfoId": null,
+          "imei": null,
+          "blacklist": null
+        }
+      ],
+      "education": {
+        "universities": [
+          {
+            "university_name": "Международный университет информационных технологий",
+            "specialization": "Информационные технологий",
+            "degree_type": "Бакалавр",
+            "course": "4",
+            "duration": "4 года",
+            "start_date": "1996-09-01",
+            "end_date": "2000-06-15",
+            "study_code": "090440001325",
+            "address": "г. Алматы ул. Манас д. 34/1"
+          }
+        ],
+        "schools": [
+          {
+            "school_name": "Средняя школа №6",
+            "school_type": "Общеобразовательная",
+            "grade": "11",
+            "school_code": "025963",
+            "start_date": "1984-09-01",
+            "end_date": "1995-05-25",
+            "address": "г. Кокшетау ул. Капцивеч д. 193"
+          }
+        ]
+      },
+      "docs": [
+        {
+          "iin": "780130259510",
+          "doc_number": "130259510",
+          "doc_type_id": "2",
+          "doc_type_ru_name": "УДОСТОВЕРЕНИЕ РК",
+          "issue_date": "2024-02-03",
+          "expiry_date": "2034-02-03",
+          "document_invalidity_id": "0",
+          "document_invalidity_ru_name": "ДОКУМЕНТ ДЕЙСТВИТЕЛЕН",
+          "document_invalidity_date": null,
+          "issue_organization_id": "2",
+          "issue_organization_ru_name": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК"
+        },
+        {
+          "iin": "780130259510",
+          "doc_number": "N13025951",
+          "doc_type_id": "1",
+          "doc_type_ru_name": "ПАСПОРТ РК",
+          "issue_date": "2023-10-13",
+          "expiry_date": "2033-10-12",
+          "document_invalidity_id": "0",
+          "document_invalidity_ru_name": "ДОКУМЕНТ ДЕЙСТВИТЕЛЕН",
+          "document_invalidity_date": null,
+          "issue_organization_id": "2",
+          "issue_organization_ru_name": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК"
+        }
+      ],
+      "mvFlList": {
+        "iin": "780130259510",
+        "last_name": "АРЫНОВ",
+        "first_name": "ТАЛГАТ",
+        "patronymic": "КАЙРАТОВИЧ",
+        "birth_date": "1978-01-30",
+        "citizenship_ru_name": "КАЗАХСТАН",
+        "nationality_ru_name": "КАЗАХ",
+        "life_status_ru_name": "Нормальный",
+        "death_date": null,
+        "district": "Ц-КАЗАХСТАН",
+        "region": "ЕСИЛЬСКИЙ РАЙОН",
+        "_resident": true
+      },
+      "photoDbs": [
+        {
+          "iin": "780130259510",
+          "document_type_id": "2",
+          "photo": "images/талгат.png",
+          "date": "1997-08-15 09:22:50"
+        }
+      ],
+      "def_transport": [
+        {
+          "iin": "780130259510",
+          "brandModel": "Toyota Land Cruiser 300",
+          "dateCertificate": "2024-06-19",
+          "seriesRegNumber": "TH00005311",
+          "regNumber": "757ACB01",
+          "categoryControlTc": "B",
+          "vinKuzovShassi": "33890070425822",
+          "engineVolume": "3346",
+          "weight": "2495",
+          "maxWeight": "3320",
+          "ownerCategory": "2",
+          "endDate": null,
+          "color": "Черный",
+          "releaseYearTc": "2024",
+          "specialMarks": null,
+          "registered": true
+        },
+        {
+          "iin": "780130259510",
+          "brandModel": "Audi RS 6",
+          "dateCertificate": "2025-03-21",
+          "seriesRegNumber": "TH00001266",
+          "regNumber": "145DGC01",
+          "categoryControlTc": "B",
+          "vinKuzovShassi": "33890070441333",
+          "engineVolume": "3996",
+          "weight": "2165",
+          "maxWeight": "2740",
+          "ownerCategory": "2",
+          "endDate": null,
+          "color": "Белый",
+          "releaseYearTc": "2025",
+          "specialMarks": null,
+          "registered": true
+        }
+      ],
+      "def_rn": [
+        {
+          "cadastral_number": "17:032:0003256:0142",
+          "rka_code": "1201300987654321",
+          "estate_remove_date": null,
+          "intended_use_rus": "квартира",
+          "intended_use_kaz": "пәтер",
+          "estate_status_rus": "актуальная",
+          "estate_status_kaz": "өзекті",
+          "address_rus": "г. Астана, ул. Р.Кошкарбаева, д. 10, кв. 52",
+          "address_kaz": "г. Астана, ул. Р.Кошкарбаева, д. 10, кв. 52",
+          "address_history_rus": null,
+          "address_history_kaz": null,
+          "type_of_property_rus": "Первичный объект",
+          "type_of_property_kaz": "Первичный объект",
+          "property_type_rus": null,
+          "property_type_kaz": null,
+          "area_total": "85.3",
+          "area_useful": "73.5",
+          "floor": "25/30",
+          "estate_characteristic_status_rus": "актуальная",
+          "estate_characteristic_status_kaz": "өзекті",
+          "register_record_number": "12",
+          "register_transaction_amount": "25000000",
+          "register_reg_date": "2025-02-15",
+          "register_end_date": null,
+          "register_emergence_rights_rus": "Договор купли-продажи № 19-2501-7845 от 15 февраль 2025г., нотариус АБДУЛЛАЕВ М. К. лицензия № 0003456 от 15 февраль 2025г.. Дата регистрации: 15.02.2025 14:25",
+          "register_emergence_rights_kaz": null,
+          "register_termination_reason": null,
+          "register_status_rus": "актуальная",
+          "register_status_kaz": "өзекті",
+          "owner_full_name": "СМИРНОВ АЛЕКСЕЙ ИВАНОВИЧ"
+        },
+        {
+          "cadastral_number": "52:153:5682256:0142",
+          "rka_code": "15801300987654321",
+          "estate_remove_date": null,
+          "intended_use_rus": "квартира",
+          "intended_use_kaz": "пәтер",
+          "estate_status_rus": "",
+          "estate_status_kaz": "өзекті",
+          "address_rus": "г. Астана, ул. Сыганак, д. 18, кв. 58",
+          "address_kaz": "г. Астана, ул. Сыганак, д. 18, кв. 58",
+          "address_history_rus": null,
+          "address_history_kaz": null,
+          "type_of_property_rus": "Первичный объект",
+          "type_of_property_kaz": "Первичный объект",
+          "property_type_rus": null,
+          "property_type_kaz": null,
+          "area_total": "45.1",
+          "area_useful": "36.5",
+          "floor": "2/5",
+          "estate_characteristic_status_rus": "исторический",
+          "estate_characteristic_status_kaz": "тарихи",
+          "register_record_number": "12",
+          "register_transaction_amount": "11000000",
+          "register_reg_date": "2013-03-20",
+          "register_end_date": null,
+          "register_emergence_rights_rus": "Договор купли-продажи № 23-2501-8965 от 20 марта 2013г., нотариус БАЙМАНОВА К. П. лицензия № 0006666 от 20-03-2013г.. Дата регистрации: 20.03.2013 14:25",
+          "register_emergence_rights_kaz": null,
+          "register_termination_reason": null,
+          "register_status_rus": "исторический",
+          "register_status_kaz": "тарихи",
+          "owner_full_name": "НАЗАРОВА АЛИЯ ШАЙМЕРДЕНОВНА"
+        }
+      ],
+      "riskPercentage": 0.0,
+      "address": {
+        "IIN": "780130259510",
+        "fio": "Арынов Талгат Кайратович",
+        "ADDRESS_DATE": "2003-08-18 00:00:00",
+        "ADDRESS_END_DATE": null,
+        "RKA": "1201300154834825",
+        "RN_ADDRESS_RU": null,
+        "RN_ADDRESS_HISTORY_RU": null,
+        "DISTRICT": "Ц-КАЗАХСТАНСКАЯ",
+        "CITY": null,
+        "REGION": "АСТАНА",
+        "STREET": "УЛИЦА Р.КОШКАРБАЕВА",
+        "BUILDING": "10",
+        "CORPUS": null,
+        "FLAT": "52",
+        "id": "6b95a265-7adb-4319-b7c8-1792f47a6f11",
+        "region": "АСТАНА",
+        "iin": "780130259510",
+        "rnAddressRu": null,
+        "rka": "1201300154834825",
+        "building": "10",
+        "corpus": null,
+        "flat": "52",
+        "district": "Ц-КАЗАХСТАНСКАЯ",
+        "street": "УЛИЦА Р.КОШКАРБАЕВА",
+        "addressDate": "2003-08-18 00:00:00",
+        "addressEndDate": null,
+        "rnAddressHistoryRu": null,
+        "city": null
+      },
+      "business": {
+        "current_companies": [
+          {
+            "bin": "201040004136",
+            "name": "Товарищество с ограниченной ответственностью Байтерек Трейд",
+            "reg_date": "2020-10-04"
+          }
+        ],
+        "previous_companies": [
+          {
+            "reg_date": "2020-10-05",
+            "bin_org": "201040004136",
+            "iin": "780130259510",
+            "lastname": "АРЫНОВ",
+            "firstname": "ТАЛГАТ",
+            "patronymic": "КАЙРАТОВИЧ",
+            "deposit": "0",
+            "share": "0",
+            "is_curr": true,
+            "binName": "Товарищество с ограниченной ответственностью Байтерек Трейд"
+          }
+        ],
+        "pension_contributions": [
+          {
+            "bin": "120440021645",
+            "company": "ТОО \"ХОЛДИНГ-ТРАНСС-ПАВЛОДАР\"",
+            "period": "2015",
+            "sum010": "80000",
+            "sum012": "110000"
+          },
+          {
+            "bin": "080340004077",
+            "company": "АО \"Компания по страхованию жизни Nomad Life\"",
+            "period": "2018",
+            "sum010": "310000",
+            "sum012": "31000"
+          },
+          {
+            "bin": "940140000385",
+            "company": "АО \"Народный Банк Казахстана\"",
+            "period": "2019",
+            "sum010": "280000",
+            "sum012": "28000"
+          },
+          {
+            "bin": "940140000385",
+            "company": "АО \"Народный Банк Казахстана\"",
+            "period": "2020",
+            "sum010": "280000",
+            "sum012": "28000"
+          },
+          {
+            "bin": "201040004136",
+            "company": "ТОО \"Байтерек Трейд\"",
+            "period": "2021",
+            "sum010": "200000",
+            "sum012": "220000"
+          },
+          {
+            "bin": "201040004136",
+            "company": "ТОО \"Байтерек Трейд\"",
+            "period": "2022",
+            "sum010": "200000",
+            "sum012": "220000"
+          },
+          {
+            "bin": "201040004136",
+            "company": "ТОО \"Байтерек Трейд\"",
+            "period": "2023",
+            "sum010": "200000",
+            "sum012": "220000"
+          }
+        ]
+      },
+      "connections": [
+        {
+          "iin": "780909200134",
+          "name": "АХМЕТОВА АЙГЕРИМ ЖАКСЫЛЫККЫЗЫ",
+          "relationship": "ЖЕНА",
+          "marriage_reg_date": "2021-06-25"
+        },
+        {
+          "iin": "080225552484",
+          "name": "АРЫН НУРШАТ ТАЛҒАТҰЛЫ",
+          "relationship": "СЫН"
+        },
+        {
+          "iin": "490518300373",
+          "name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+          "relationship": "ОТЕЦ"
+        },
+        {
+          "iin": "521001400845",
+          "name": "АРЫНОВА ЛЯЗЗАТ КАПАРОВНА",
+          "relationship": "МАМА"
+        },
+        {
+          "iin": "490601402327",
+          "name": "ИСТИМИРОВА КУРАЛАЙ ХАСЕНОВНА",
+          "relationship": "ЖЕНА - МАТЬ (ТЕЩА)",
+          "marriage_reg_date": "1977-01-20"
+        },
+        {
+          "iin": "440920300578",
+          "name": "ТАМПИШЕВ ЖАКСЫЛЫК АХМЕТОВИЧ",
+          "relationship": "ЖЕНА - ОТЕЦ (ТЕСТЬ)"
+        },
+        {
+          "iin": "790418302071",
+          "name": "ЖУМАБАЕВ ЖАСТЛЕК БЕРЕКЕЛИНОВИЧ",
+          "relationship": "ОТЕЦ - ДОЧЬ - МУЖ (ЗЯТЬ)",
+          "marriage_reg_date": "2008-08-14",
+          "marriage_divorce_date": "2022-08-01"
+        },
+        {
+          "parent_iin": "760218350405",
+          "parent_fio": "БЕК СЕРІК БОТАБАЙҰЛЫ",
+          "relationship": "МАТЬ - ДОЧЬ - МУЖ (ЗЯТЬ)",
+          "marriage_reg_date": "2002-03-29"
+        }
+      ]
+    },
+    "konakbaev_adil": {
+      "iin": "780226282002",
+      "full_name": "КОНАКБАЕВ АДИЛЬ АНУАРОВИЧ",
+      "birth_date": "1978-02-26",
+      "phone_numbers": [
+        {
+          "iin": "780226282002",
+          "phone": "+77714526755",
+          "fio": "КОНАКБАЕВ АДИЛЬ АНУАРОВИЧ",
+          "email": "konakbayev_adil1978@mail.ru",
+          "nickname": null,
+          "source": "БМГ",
+          "registrationDate": null,
+          "lastActivityDate": null,
+          "prevOwnerIin": "780226282002",
+          "deviceInfoId": null,
+          "imei": null,
+          "blacklist": null
+        },
+        {
+          "iin": "780226282002",
+          "phone": "+77715456200",
+          "fio": "КОНАКБАЕВ АДИЛЬ АНУАРОВИЧ",
+          "email": "konakbayev_adil1978@mail.ru",
+          "nickname": null,
+          "source": "БМГ",
+          "registrationDate": null,
+          "lastActivityDate": null,
+          "prevOwnerIin": "780226282002",
+          "deviceInfoId": null,
+          "imei": null,
+          "blacklist": null
+        }
+      ],
+      "def_transport": [
+        {
+          "iin": "780226282002",
+          "brandModel": "Toyota Camry XV30",
+          "dateCertificate": "2022-04-12",
+          "seriesRegNumber": "ЕЕ74005311",
+          "regNumber": "456DRT01",
+          "categoryControlTc": "B",
+          "vinKuzovShassi": "33884341025753",
+          "engineVolume": "2362",
+          "weight": "1390",
+          "maxWeight": "1935",
+          "ownerCategory": "2",
+          "endDate": null,
+          "color": "Черный",
+          "releaseYearTc": "2022",
+          "specialMarks": null,
+          "registered": true
+        }
+      ],
+      "education": {
+        "universities": [
+          {
+            "university_name": "Нархоз",
+            "specialization": "Туризм и гостиничный бизнес",
+            "degree_type": "Бакалавр",
+            "course": "4",
+            "duration": "4 года",
+            "start_date": "1995-09-01",
+            "end_date": "1999-06-15",
+            "address": "г. Алматы ул. Жандосова д. 55"
+          }
+        ],
+        "schools": [
+          {
+            "school_name": "Средняя школа №1",
+            "school_type": "Общеобразовательная",
+            "grade": "11",
+            "school_code": "031463",
+            "start_date": "1984-09-01",
+            "end_date": "1995-05-25",
+            "address": "р. Есильский ул. Южная"
+          }
+        ]
+      },
+      "docs": [
+        {
+          "iin": "780226282002",
+          "doc_number": "226282002",
+          "doc_type_id": "2",
+          "doc_type_ru_name": "УДОСТОВЕРЕНИЕ РК",
+          "issue_date": "2024-02-28",
+          "expiry_date": "2034-02-28",
+          "document_invalidity_id": "0",
+          "document_invalidity_ru_name": "ДОКУМЕНТ ДЕЙСТВИТЕЛЕН",
+          "document_invalidity_date": null,
+          "issue_organization_id": "2",
+          "issue_organization_ru_name": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК"
+        },
+        {
+          "iin": "780226282002",
+          "doc_number": "N22628200",
+          "doc_type_id": "1",
+          "doc_type_ru_name": "ПАСПОРТ РК",
+          "issue_date": "2023-10-13",
+          "expiry_date": "2033-10-12",
+          "document_invalidity_id": "0",
+          "document_invalidity_ru_name": "ДОКУМЕНТ ДЕЙСТВИТЕЛЕН",
+          "document_invalidity_date": null,
+          "issue_organization_id": "2",
+          "issue_organization_ru_name": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК"
+        }
+      ],
+      "def_rn": {
+        "cadastral_number": "15:234:003:073:1:81",
+        "rka_code": "1201300154834825",
+        "estate_remove_date": null,
+        "intended_use_rus": "квартира",
+        "intended_use_kaz": "пәтер",
+        "estate_status_rus": "актуальная",
+        "estate_status_kaz": "өзекті",
+        "address_rus": "обл. Северо-Казахстанская, г. Петропавловск, ул. Шухова, д. 12, кв. 52",
+        "address_kaz": "обл. Северо-Казахстанская, г. Петропавловск, ул. Шухова, д. 12, кв. 52",
+        "address_history_rus": null,
+        "address_history_kaz": null,
+        "type_of_property_rus": "Вторичный объект",
+        "type_of_property_kaz": "Вторичный объект",
+        "property_type_rus": null,
+        "property_type_kaz": null,
+        "area_total": "52.3",
+        "area_useful": "29.7",
+        "floor": "10/1",
+        "estate_characteristic_status_rus": "актуальная",
+        "estate_characteristic_status_kaz": "өзекті",
+        "register_record_number": "6",
+        "register_transaction_amount": "8700000",
+        "register_reg_date": null,
+        "register_end_date": null,
+        "register_emergence_rights_rus": "Договор купли-продажи № 17-1501-4996 (№ 1498 от 16 августа 2017г.), нотариус БАЛТАБАЕВА Р. К. лицензия № 0002013 от 03-09-2008г.. Дата регистрации: 17.08.2017 15:23",
+        "register_emergence_rights_kaz": null,
+        "register_termination_reason": null,
+        "register_status_rus": "актуальная",
+        "register_status_kaz": "өзекті",
+        "owner_full_name": "Дуйсенбай Дарын Канатулы",
+        "owner_iin_bin": "740502300756"
+      },
+      "mvFlList": {
+        "iin": "780226282002",
+        "last_name": "КОНАКБАЕВ",
+        "first_name": "АДИЛЬ",
+        "patronymic": "АНУАРОВИЧ",
+        "birth_date": "1978-02-26",
+        "citizenship_ru_name": "КАЗАХСТАН",
+        "nationality_ru_name": "КАЗАХ",
+        "life_status_ru_name": "Нормальный",
+        "death_date": null,
+        "district": "АКМОЛИНИСКАЯ ОБЛАСТЬ",
+        "region": "АСТАНА",
+        "_resident": true
+      },
+      "photoDbs": [
+        {
+          "iin": "780226282002",
+          "document_type_id": "2",
+          "photo": "images/адил.png",
+          "date": "1997-08-15 09:22:50"
+        }
+      ],
+      "riskPercentage": 32.0,
+      "address": {
+        "IIN": "780226282002",
+        "fio": "Конакбаев Адиль Ануарович",
+        "ADDRESS_DATE": "2003-08-18 00:00:00",
+        "ADDRESS_END_DATE": null,
+        "RKA": "1201300154834825",
+        "RN_ADDRESS_RU": null,
+        "RN_ADDRESS_HISTORY_RU": null,
+        "DISTRICT": "Ц-КАЗАХСТАНСКАЯ",
+        "CITY": null,
+        "REGION": "АСТАНА",
+        "STREET": "УЛИЦА Алексея Петрова",
+        "BUILDING": "13",
+        "CORPUS": null,
+        "FLAT": "28",
+        "id": "6b95a265-7adb-4319-b7c8-1792f47a6f11",
+        "region": "АСТАНА",
+        "iin": "780226282002",
+        "rnAddressRu": null,
+        "rka": "1201300154834825",
+        "building": "10",
+        "corpus": null,
+        "flat": "52",
+        "district": "Ц-КАЗАХСТАНСКАЯ",
+        "street": "УЛИЦА Р.КОШКАРБАЕВА",
+        "addressDate": "2003-08-18 00:00:00",
+        "addressEndDate": null,
+        "rnAddressHistoryRu": null,
+        "city": null
+      },
+      "connections": [
+        {
+          "iin": "790208200894",
+          "name": "ТЛЕУБЕРГЕНОВА АЙЖАН ЖАКСЫЛЫККЫЗЫ",
+          "relationship": "ЖЕНА"
+        },
+        {
+          "iin": "090518652450",
+          "name": "АНУАРОВА НУРАЙ АДИЛКЫЗЫ",
+          "relationship": "ДОЧЬ"
+        },
+        {
+          "iin": "551225211550",
+          "name": "НАЗАРОВ АНУАР КОНАКБАЕВ",
+          "relationship": "ОТЕЦ"
+        }
+      ],
+      "business": {
+        "current_companies": [
+          {
+            "bin": "211040044130",
+            "name": "ТОО \"Бизнесс Групп\"",
+            "role": "директор",
+            "reg_date": "2024-09-19"
+          },
+          {
+            "bin": "201040004136",
+            "name": "ТОО \"Байтерек Трейд\"",
+            "role": "директор",
+            "reg_date": "2023-11-05"
+          }
+        ],
+        "previous_companies": [
+          {
+            "reg_date": "2023-11-05",
+            "bin_org": "201040004136",
+            "iin": "780226282002",
+            "lastname": "КОНАКБАЕВ",
+            "firstname": "АДИЛЬ",
+            "patronymic": "АНУАРОВИЧ",
+            "deposit": "0",
+            "share": "0",
+            "is_curr": true,
+            "binName": "Товарищество с ограниченной ответственностью Байтерек Трейд"
+          }
+        ],
+        "pension_contributions": [
+          {
+            "bin": "000340006623",
+            "company": "ГККП ЯСЛИ-САД 45 Г.ПАВЛОДАРА ОТДЕЛА ОБРАЗОВАНИЯ Г.ПАВЛОДАРА,",
+            "period": "2012",
+            "sum010": "3500",
+            "sum012": "35000"
+          },
+          {
+            "bin": "000340006623",
+            "company": "ГККП ЯСЛИ-САД 45 Г.ПАВЛОДАРА ОТДЕЛА ОБРАЗОВАНИЯ Г.ПАВЛОДАРА,",
+            "period": "2013",
+            "sum010": "5500",
+            "sum012": "55000"
+          },
+          {
+            "bin": "000340006623",
+            "company": "ГККП ЯСЛИ-САД 45 Г.ПАВЛОДАРА ОТДЕЛА ОБРАЗОВАНИЯ Г.ПАВЛОДАРА,",
+            "period": "2014",
+            "sum010": "5500",
+            "sum012": "55000"
+          },
+          {
+            "bin": "120440021645",
+            "company": "ТОО \"ХОЛДИНГ-ТРАНСС-ПАВЛОДАР\"",
+            "period": "2015",
+            "sum010": "8600",
+            "sum012": "86000"
+          },
+          {
+            "bin": "120440021645",
+            "company": "ТОО \"ХОЛДИНГ-ТРАНСС-ПАВЛОДАР\"",
+            "period": "2016",
+            "sum010": "9000",
+            "sum012": "90000"
+          },
+          {
+            "bin": "120440021645",
+            "company": "ТОО \"ХОЛДИНГ-ТРАНСС-ПАВЛОДАР\"",
+            "period": "2017",
+            "sum010": "9000",
+            "sum012": "90000"
+          },
+          {
+            "bin": "120440021645",
+            "company": "ТОО \"ХОЛДИНГ-ТРАНСС-ПАВЛОДАР\"",
+            "period": "2018",
+            "sum010": "9000",
+            "sum012": "90000"
+          }
+        ]
+      },
+      "firstCreditBureauEntities": [
+        {
+          "id": 1621392,
+          "type": "Физическое лицо",
+          "creditInFoid": 150000,
+          "iin": "780226282002",
+          "region": "г. Алматы",
+          "quantityFpdSpd": 1,
+          "maxDelayDayNum1": 53,
+          "finInstitutionsName": "ТОО \"МФО \"Взаймы\"",
+          "totalCountOfCredits": 4,
+          "totalSumOfCredits": 1060664,
+          "maxDelayDayNum2": 125,
+          "relevanceDate": "2023-04-30T18:00:00.000+00:00"
+        },
+        {
+          "id": 3363949,
+          "type": "Физическое лицо",
+          "creditInFoid": 950000,
+          "iin": "780226282002",
+          "region": "г. Алматы",
+          "quantityFpdSpd": 1,
+          "maxDelayDayNum1": 48,
+          "finInstitutionsName": "ТОО \"МФО \"Взаймы\"",
+          "totalCountOfCredits": 3,
+          "totalSumOfCredits": 1092584,
+          "maxDelayDayNum2": 434,
+          "relevanceDate": "2024-04-09T19:00:00.000+00:00"
+        },
+        {
+          "id": 4480052,
+          "type": "Физическое лицо",
+          "creditInFoid": 500000,
+          "iin": "780226282002",
+          "region": "г. Алматы",
+          "quantityFpdSpd": 1,
+          "maxDelayDayNum1": 3,
+          "finInstitutionsName": "ТОО \"МФО \"Взаймы\"",
+          "totalCountOfCredits": 4,
+          "totalSumOfCredits": 1086784,
+          "maxDelayDayNum2": 216,
+          "relevanceDate": "2023-08-31T18:00:00.000+00:00"
+        },
+        {
+          "id": 4745000,
+          "type": "Физическое лицо",
+          "creditInFoid": 200000,
+          "iin": "780226282002",
+          "region": "г. Алматы",
+          "quantityFpdSpd": 1,
+          "maxDelayDayNum1": 19,
+          "finInstitutionsName": "ТОО \"Взаймы\"",
+          "totalCountOfCredits": 3,
+          "totalSumOfCredits": 1093145,
+          "maxDelayDayNum2": 808,
+          "relevanceDate": "2025-04-09T19:00:00.000+00:00"
+        },
+        {
+          "id": 4745000,
+          "type": "Физическое лицо",
+          "creditInFoid": 30000,
+          "iin": "780226282002",
+          "region": "г. Алматы",
+          "quantityFpdSpd": 1,
+          "maxDelayDayNum1": 30,
+          "finInstitutionsName": "ТОО \"Взаймы\"",
+          "totalCountOfCredits": 3,
+          "totalSumOfCredits": 1093145,
+          "maxDelayDayNum2": 808,
+          "relevanceDate": "2025-04-09T19:00:00.000+00:00"
+        },
+        {
+          "id": 4745020,
+          "type": "Физическое лицо",
+          "creditInFoid": 300000,
+          "iin": "780226282002",
+          "region": "г. Алматы",
+          "quantityFpdSpd": 1,
+          "maxDelayDayNum1": 16,
+          "finInstitutionsName": "ТОО \"Zaimer\"",
+          "totalCountOfCredits": 3,
+          "totalSumOfCredits": 1093145,
+          "maxDelayDayNum2": 808,
+          "relevanceDate": "2025-04-09T19:00:00.000+00:00"
+        },
+        {
+          "id": 4745020,
+          "type": "Физическое лицо",
+          "creditInFoid": 745000,
+          "iin": "780226282002",
+          "region": "г. Алматы",
+          "quantityFpdSpd": 1,
+          "maxDelayDayNum1": 5,
+          "finInstitutionsName": "ТОО \"Zaimer\"",
+          "totalCountOfCredits": 3,
+          "totalSumOfCredits": 1093145,
+          "maxDelayDayNum2": 808,
+          "relevanceDate": "2025-04-09T19:00:00.000+00:00"
+        },
+        {
+          "id": 47450058,
+          "type": "Физическое лицо",
+          "creditInFoid": 3240000,
+          "iin": "780226282002",
+          "region": "г. Алматы",
+          "quantityFpdSpd": 1,
+          "maxDelayDayNum1": 8,
+          "finInstitutionsName": "ТОО \"365CREDIT\"",
+          "totalCountOfCredits": 3,
+          "totalSumOfCredits": 1093145,
+          "maxDelayDayNum2": 808,
+          "relevanceDate": "2025-04-09T19:00:00.000+00:00"
+        }
+      ],
+      "immoralLifestyles": [
+        {
+          "id": 4993863,
+          "authority_detected": "ДП г.Шымкент",
+          "iin": "780226282002",
+          "citizenship_id": "105",
+          "decision_date": null,
+          "fine_amount": null,
+          "mv_fl_iin_id": "c2a153e0-b8cc-482b-9a72-2de8ed73a517"
+        },
+        {
+          "id": 5065311,
+          "authority_detected": "Аль-Фарабийский РУП ДП г.Шымкента",
+          "iin": "780226282002",
+          "citizenship_id": "105",
+          "decision_date": "2023-10-01",
+          "fine_amount": null,
+          "mv_fl_iin_id": "c2a153e0-b8cc-482b-9a72-2de8ed73a517"
+        }
+      ],
+      "adms": [
+        {
+          "two": "5000000015441174",
+          "org_identify_crime": "19316603",
+          "authority_detected": "ОВД Шуского района ДП Жамбылской области",
+          "divisions_ovd": "УИП МПС ШУ РОВД",
+          "material_num": "203166033009225",
+          "language_prod": null,
+          "reg_date": "2020-11-23",
+          "protocol_num": null,
+          "protocol_date": null,
+          "kui_number": null,
+          "kui_date": null,
+          "erdr_number": null,
+          "erdr_date": null,
+          "fifteen": "БАҚБЕРГЕНОВ БАЙЖАН МАЛИКҰЛЫ",
+          "sixteen": "23.11.2020",
+          "seventeen": "01",
+          "eighteen": "4490001",
+          "nineteen": " ",
+          "twenty": null,
+          "twenty_one": null,
+          "surname": "КОНАКБАЕВ",
+          "firstname": "АДИЛЬ",
+          "secondname": "АНУАРОВИЧ",
+          "birth_date": "1978-02-26",
+          "citizenship": "017",
+          "nationality": "Казах",
+          "iin": "780226282002",
+          "work_place": "“Жамбыл облысы Шу ауданы әкімдігінің халықты жұмыспен қамту ,(БИН/ИИН) - 110640001232",
+          "phone_num": null,
+          "email": null,
+          "ul_org_name": null,
+          "ul_adress": null,
+          "bin": null,
+          "vehicle_brand": null,
+          "state_auto_num": null,
+          "qualification": "4490001",
+          "enforcement": null,
+          "id": "499986",
+          "maim_measure": "01",
+          "end_date": null,
+          "fine_amount": null,
+          "teminate_reason": null,
+          "source": null,
+          "thirty_seven": "5000000025145621",
+          "thirty_eight": "19316603",
+          "thirty_nine": "ОВД Шуского района ДП Жамбылской области",
+          "fourty": "203166033009225",
+          "fourty_two": null,
+          "fourty_three": "09",
+          "fourty_four": "2020-11-23",
+          "fourty_nine": null,
+          "fifty_one": null,
+          "fifty_two": null,
+          "fifty_three": null,
+          "fifty_four": null,
+          "fifty_five": null,
+          "fifty_six": "11 Мобильное приложение ЕРАП",
+          "qualification_name": "ст.449 ч.1 Приставание в общественных местах"
+        },
+        {
+          "two": "182216612",
+          "org_identify_crime": "19316603",
+          "authority_detected": "ОВД Шуского района ДП Жамбылской области",
+          "divisions_ovd": null,
+          "material_num": "183166033000594",
+          "language_prod": null,
+          "reg_date": "2018-02-28",
+          "protocol_num": "0535997",
+          "protocol_date": "2018-02-28",
+          "kui_number": null,
+          "kui_date": null,
+          "erdr_number": null,
+          "erdr_date": null,
+          "fifteen": "ИНСПЕКТОР",
+          "sixteen": "05.04.2018",
+          "seventeen": "01",
+          "eighteen": "4490001",
+          "nineteen": " ",
+          "twenty": null,
+          "twenty_one": null,
+          "surname": "КОНАКБАЕВ",
+          "firstname": "АДИЛЬ",
+          "secondname": "АНУАРОВИЧ",
+          "birth_date": "1978-02-26",
+          "citizenship": "829",
+          "nationality": "Казах",
+          "iin": "780226282002",
+          "work_place": "НЕ РАБОТАЕТ",
+          "phone_num": null,
+          "email": null,
+          "ul_org_name": null,
+          "ul_adress": null,
+          "bin": null,
+          "vehicle_brand": null,
+          "state_auto_num": null,
+          "qualification": "4490001",
+          "enforcement": null,
+          "id": "408507",
+          "maim_measure": "01",
+          "end_date": null,
+          "fine_amount": null,
+          "teminate_reason": null,
+          "source": null,
+          "thirty_seven": "109329359",
+          "thirty_eight": "19316603",
+          "thirty_nine": "ОВД Шуского района ДП Жамбылской области",
+          "fourty": "183166033000594",
+          "fourty_two": null,
+          "fourty_three": "09",
+          "fourty_four": "2018-02-28",
+          "fourty_nine": null,
+          "fifty_one": null,
+          "fifty_two": null,
+          "fifty_three": null,
+          "fifty_four": null,
+          "fifty_five": null,
+          "fifty_six": "03 Комитет административной полиции (КАП)",
+          "qualification_name": "ст.449 ч.1 Приставание в общественных местах"
+        },
+        {
+          "two": "5000000007138638",
+          "org_identify_crime": "19316603",
+          "authority_detected": "ОВД Шуского района ДП Жамбылской области",
+          "divisions_ovd": "УИП МПС ШУ РОВД",
+          "material_num": "193166033007093",
+          "language_prod": "русский",
+          "reg_date": "2019-09-20",
+          "protocol_num": "0680677",
+          "protocol_date": "2019-08-13",
+          "kui_number": null,
+          "kui_date": null,
+          "erdr_number": null,
+          "erdr_date": null,
+          "fifteen": "АКБЕРДИЕВ Е",
+          "sixteen": "20.09.2019",
+          "seventeen": "01",
+          "eighteen": "4490001",
+          "nineteen": " ",
+          "twenty": null,
+          "twenty_one": null,
+          "surname": "КОНАКБАЕВ",
+          "firstname": "АДИЛЬ",
+          "secondname": "АНУАРОВИЧ",
+          "birth_date": "1978-02-26",
+          "citizenship": "017",
+          "nationality": "Казах",
+          "iin": "780226282002",
+          "work_place": "не работающий",
+          "phone_num": null,
+          "email": null,
+          "ul_org_name": null,
+          "ul_adress": null,
+          "bin": null,
+          "vehicle_brand": null,
+          "state_auto_num": null,
+          "qualification": "4490001",
+          "enforcement": null,
+          "id": "451911",
+          "maim_measure": "01",
+          "end_date": null,
+          "fine_amount": null,
+          "teminate_reason": null,
+          "source": null,
+          "thirty_seven": "5000000011994226",
+          "thirty_eight": "19316603",
+          "thirty_nine": "ОВД Шуского района ДП Жамбылской области",
+          "fourty": "193166033007093",
+          "fourty_two": null,
+          "fourty_three": "09",
+          "fourty_four": "2019-08-13",
+          "fourty_nine": null,
+          "fifty_one": null,
+          "fifty_two": null,
+          "fifty_three": null,
+          "fifty_four": null,
+          "fifty_five": null,
+          "fifty_six": "08 Учет адм. правнарушений (web)",
+          "qualification_name": "ст.449 ч.1 Приставание в общественных местах"
+        },
+        {
+          "two": "5000000013166115",
+          "org_identify_crime": "19316603",
+          "authority_detected": "ОВД Шуского района ДП Жамбылской области",
+          "divisions_ovd": "УИП МПС ШУ РОВД",
+          "material_num": "203166033006666",
+          "language_prod": null,
+          "reg_date": "2020-09-10",
+          "protocol_num": null,
+          "protocol_date": null,
+          "kui_number": null,
+          "kui_date": null,
+          "erdr_number": null,
+          "erdr_date": null,
+          "fifteen": "МУРАТАЛИЕВ АЙДЫН САНАКОВИЧ",
+          "sixteen": "10.09.2020",
+          "seventeen": "01",
+          "eighteen": "4490001",
+          "nineteen": " ",
+          "twenty": null,
+          "twenty_one": null,
+          "surname": "КОНАКБАЕВ",
+          "firstname": "АДИЛЬ",
+          "secondname": "АНУАРОВИЧ",
+          "birth_date": "1978-02-26",
+          "citizenship": "017",
+          "nationality": "Казах",
+          "iin": "821218400382",
+          "work_place": "Не удалось найти информацию по входным данным",
+          "phone_num": null,
+          "email": null,
+          "ul_org_name": null,
+          "ul_adress": null,
+          "bin": null,
+          "vehicle_brand": null,
+          "state_auto_num": null,
+          "qualification": "4490001",
+          "enforcement": null,
+          "id": "489319",
+          "maim_measure": "01",
+          "end_date": null,
+          "fine_amount": null,
+          "teminate_reason": null,
+          "source": null,
+          "thirty_seven": "5000000021715515",
+          "thirty_eight": "19316603",
+          "thirty_nine": "ОВД Шуского района ДП Жамбылской области",
+          "fourty": "203166033006666",
+          "fourty_two": null,
+          "fourty_three": "09",
+          "fourty_four": "2020-09-10",
+          "fourty_nine": null,
+          "fifty_one": null,
+          "fifty_two": null,
+          "fifty_three": null,
+          "fifty_four": null,
+          "fifty_five": null,
+          "fifty_six": "11 Мобильное приложение ЕРАП",
+          "qualification_name": "ст.449 ч.1 Приставание в общественных местах"
+        }
+      ],
+      "orphans": [
+        {
+          "iin": "780226282002",
+          "region": "Астана",
+          "fio": "КОНАКБАЕВ АДИЛЬ АНУАРОВИЧ",
+          "orphanage_name": "КГУ \"Детский дом № 1 для детей-сирот и детей, оставшихся без попечения родителей, г.Астана\"",
+          "graduation_year": "1996",
+          "birth_date": "1978-02-26",
+          "id": 187
+        }
+      ]
+    },
+    "life_iin": [
+      {
+        "iin": "521001400845",
+        "fio": "АРЫНОВА ЛЯЗЗАТ КАПАРОВНА",
+        "def_rn": [
+          {
+            "cadastral_number": "17:032:0003256:0142",
+            "rka_code": "1201300987654321",
+            "estate_remove_date": null,
+            "intended_use_rus": "квартира",
+            "intended_use_kaz": "патер",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "г. Астана, ул. Достык, д. 13",
+            "address_kaz": "г. Астана, ул. Достык, д. 13",
+            "address_history_rus": null,
+            "address_history_kaz": null,
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Первичный объект",
+            "property_type_rus": null,
+            "property_type_kaz": null,
+            "area_total": "236",
+            "area_useful": "203",
+            "floor": "4/12",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "",
+            "register_transaction_amount": "139900000",
+            "register_reg_date": "2025-04-26",
+            "register_end_date": null,
+            "register_emergence_rights_rus": "Договор купли-продажи № 19-2501-7845 от 26 апрель 2025г., нотариус ШАКЕНОВ Д. К. лицензия № 7853456 от 26 апрель 2025г.. Дата регистрации: 26.04.2025 10:18",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "актуальная",
+            "register_status_kaz": "өзекті",
+            "owner_full_name": "АРЫНОВА ЛЯЗЗАТ КАПАРОВНА"
+          },
+          {
+            "cadastral_number": "78:032:0003256:0142",
+            "rka_code": "8521300987654843",
+            "estate_remove_date": null,
+            "intended_use_rus": "квартира",
+            "intended_use_kaz": "патер",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "г. Астана, ул. Сарайшык, д. 6",
+            "address_kaz": "г. Астана, ул. Сарайшык, д. 6",
+            "address_history_rus": null,
+            "address_history_kaz": null,
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Первичный объект",
+            "property_type_rus": null,
+            "property_type_kaz": null,
+            "area_total": "191",
+            "area_useful": "169",
+            "floor": "8/8",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "",
+            "register_transaction_amount": "290000000",
+            "register_reg_date": "2025-05-02",
+            "register_end_date": null,
+            "register_emergence_rights_rus": "Договор купли-продажи № 26-8521-7845 от 02 май 2025г., нотариус АБДИЕВ Д. Ш. лицензия № 4128573 от 02 май 2025г.. Дата регистрации: 02.05.2025 16:49",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "актуальная",
+            "register_status_kaz": "өзекті",
+            "owner_full_name": "АРЫНОВА ЛЯЗЗАТ КАПАРОВНА"
+          },
+          {
+            "cadastral_number": "52:153:5682256:0142",
+            "rka_code": "15801300987654321",
+            "estate_remove_date": null,
+            "intended_use_rus": "квартира",
+            "intended_use_kaz": "пәтер",
+            "estate_status_rus": "",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "г. Алматы, ул. Керей-Жанибек хандар, д. 91",
+            "address_kaz": "г. Алматы, ул. Керей-Жанибек хандар, д. 91",
+            "address_history_rus": null,
+            "address_history_kaz": null,
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Первичный объект",
+            "property_type_rus": null,
+            "property_type_kaz": null,
+            "area_total": "5000",
+            "area_useful": "4729",
+            "floor": "",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "",
+            "register_transaction_amount": "5500000000",
+            "register_reg_date": "2025-03-19",
+            "register_end_date": null,
+            "register_emergence_rights_rus": "Договор купли-продажи № 23-2501-8965 от 19 марта 2025г., нотариус БАЙМАНОВА К. П. лицензия № 0006666 от 19-03-2025г.. Дата регистрации: 19.03.2025 12:39",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "актуальная",
+            "register_status_kaz": "өзекті",
+            "owner_full_name": "АРЫНОВА ЛЯЗЗАТ КАПАРОВНА"
+          },
+          {
+            "cadastral_number": "78:111:9572256:0142",
+            "rka_code": "5687300987654568",
+            "estate_remove_date": null,
+            "intended_use_rus": "квартира",
+            "intended_use_kaz": "пәтер",
+            "estate_status_rus": "",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "г. Алматы, ул. Керей-Жанибек хандар, д. 91",
+            "address_kaz": "г. Алматы, ул. Керей-Жанибек хандар, д. 91",
+            "address_history_rus": null,
+            "address_history_kaz": null,
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Первичный объект",
+            "property_type_rus": null,
+            "property_type_kaz": null,
+            "area_total": "5000",
+            "area_useful": "4729",
+            "floor": "",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "",
+            "register_transaction_amount": "5500000000",
+            "register_reg_date": "2025-03-19",
+            "register_end_date": null,
+            "register_emergence_rights_rus": "Договор купли-продажи № 23-2501-8965 от 19 марта 2025г., нотариус БАЙМАНОВА К. П. лицензия № 0006666 от 19-03-2025г.. Дата регистрации: 19.03.2025 12:39",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "актуальная",
+            "register_status_kaz": "өзекті",
+            "owner_full_name": "АРЫНОВА ЛЯЗЗАТ КАПАРОВНА"
+          },
+          {
+            "cadastral_number": "14:218:017:250:472:148",
+            "rka_code": "1201300217209924",
+            "estate_remove_date": null,
+            "intended_use_rus": "Жилой",
+            "intended_use_kaz": "Тұрғын",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Р.Люксембург, д. 102, кв. 148",
+            "address_kaz": "Павлодар обл., Павлодар қ., Р.Люксембург көш., 102 ү., 148 п.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Р.Люксембург, д. 102, кв. 148",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Р.Люксембург көш., 102 ү., 148 п.",
+            "type_of_property_rus": "Вторичный объект",
+            "type_of_property_kaz": "Екiншi объект",
+            "property_type_rus": "Квартира",
+            "property_type_kaz": "Пәтер",
+            "area_total": "61",
+            "area_useful": "37.8",
+            "floor": "9/1",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "3",
+            "register_transaction_amount": null,
+            "register_reg_date": "1993-01-20 00:00:00",
+            "register_end_date": "2001-02-16 00:00:00",
+            "register_emergence_rights_rus": "Договор о приватизации квартиры (№ 1774 от 23.09.1992г.)",
+            "register_emergence_rights_kaz": "Пәтер жекешелендіру туралы шарт",
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВА ЛЯЗЗАТ КАПАРОВНА",
+            "owner_iin_bin": "521001400845"
+          },
+          {
+            "cadastral_number": "14:218:017:544",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": null,
+            "intended_use_rus": "для строительства и обслуживания жилого дома",
+            "intended_use_kaz": "тұрғын үйдің кұрылысын салу және қызмет көрсету үшін",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Земельный участок",
+            "type_of_property_kaz": "Жер телімі",
+            "property_type_rus": "Земельный участок",
+            "property_type_kaz": "Жер телімі",
+            "area_total": "0.0488",
+            "area_useful": null,
+            "floor": null,
+            "estate_characteristic_status_rus": "утратила силу",
+            "estate_characteristic_status_kaz": "қүші жойылды",
+            "register_record_number": "14",
+            "register_transaction_amount": null,
+            "register_reg_date": "2010-05-19 12:19:55",
+            "register_end_date": null,
+            "register_emergence_rights_rus": "Свидетельство о праве наследства по закону № 10/218.13-1/8385 (№ 4792 от 19 мая 2010г.), нотариус Жапарова Сауле Рашитовна лицензия № 0000072 от 10-08-1998г.. Дата регистрации: 19.05.2010 12:19",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВА ЛЯЗЗАТ КАПАРОВНА",
+            "owner_iin_bin": "521001400845"
+          },
+          {
+            "cadastral_number": "14:218:018:001:82:26",
+            "rka_code": "1201300002764828",
+            "estate_remove_date": null,
+            "intended_use_rus": "квартира",
+            "intended_use_kaz": "пәтер",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Катаева, д. 42, кв. 26",
+            "address_kaz": "Павлодар обл., Павлодар қ., Катаев көш., 42 ү., 26 п.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Катаева, д. 42, кв. 26",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Катаев көш., 42 ү., 26 п.",
+            "type_of_property_rus": "Вторичный объект",
+            "type_of_property_kaz": "Екiншi объект",
+            "property_type_rus": "Квартира",
+            "property_type_kaz": "Пәтер",
+            "area_total": "45.4",
+            "area_useful": "29.6",
+            "floor": "5/4",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "7",
+            "register_transaction_amount": null,
+            "register_reg_date": "2000-07-21 00:00:00",
+            "register_end_date": "2005-02-14 10:12:00",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 21 июля 2000г.). Дата регистрации: 21.07.2000 00:00",
+            "register_emergence_rights_kaz": "Сатып алу-сату келісім-шарты",
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВА ЛЯЗЗАТ КАПАРОВНА",
+            "owner_iin_bin": "521001400845"
+          }
+        ],
+        "def_transport": [
+          {
+            "iin": "521001400845",
+            "brandModel": "Land Cruiser 300",
+            "dateCertificate": "2025-03-22",
+            "seriesRegNumber": "TH08565347",
+            "regNumber": "256HT01",
+            "categoryControlTc": "B",
+            "vinKuzovShassi": "555985270425822",
+            "engineVolume": "3346",
+            "weight": "2495",
+            "maxWeight": "3320",
+            "ownerCategory": "2",
+            "endDate": null,
+            "color": "Белый",
+            "releaseYearTc": "2025",
+            "specialMarks": null,
+            "registered": true
+          },
+          {
+            "iin": "521001400845",
+            "brandModel": "Porsche Cayenne IV",
+            "dateCertificate": "2025-03-04",
+            "seriesRegNumber": "UT00008542",
+            "regNumber": "159DGH01",
+            "categoryControlTc": "B",
+            "vinKuzovShassi": "52390074941553",
+            "engineVolume": "1156",
+            "weight": "1554",
+            "maxWeight": "2645",
+            "ownerCategory": "2",
+            "endDate": null,
+            "color": "Красный",
+            "releaseYearTc": "2025",
+            "specialMarks": null,
+            "registered": true
+          },
+          {
+            "iin": "521001400845",
+            "brandModel": "Mercedes-Benz Maybach S-class",
+            "dateCertificate": "2025-05-12",
+            "seriesRegNumber": "ID00004163",
+            "regNumber": "007LIA01",
+            "categoryControlTc": "B",
+            "vinKuzovShassi": "77790022241553",
+            "engineVolume": "3982",
+            "weight": "2275",
+            "maxWeight": "4289",
+            "ownerCategory": "2",
+            "endDate": null,
+            "color": "Черный",
+            "releaseYearTc": "2025",
+            "specialMarks": null,
+            "registered": true
+          }
+        ]
+      },
+      {
+        "iin": "780728300118",
+        "fio": "АКИМОВ ТАЛГАТ АМАНБАЕВИЧ",
+        "military": {
+          "bin": "070440014591",
+          "dateStart": "2003-09-01",
+          "iin": "780728300118",
+          "dateEnd": "2004-09-01",
+          "binName": "Республиканское государственное учреждение Войсковая часть 48386 Министерства обороны Республики Казахстан"
+        }
+      },
+      {
+        "iin": "920121350753",
+        "criminals": [
+          {
+            "court_name": "Филиал Республиканского государственного учреждения Департамент Судебной администрации Республики Казахстан по городу Астане - Администратор межрайонного суда по уголовным делам",
+            "court_dt": "2018-02-01",
+            "iin_bin": "920121350753",
+            "decision": "осужден с назначением уголовного наказания и освобождением от его отбытия",
+            "crime_name": "Мелкое хулиганство",
+            "crime_code": "1870001",
+            "sentence": "штраф",
+            "add_info": null,
+            "treatment": null,
+            "erdr": "176310031003882",
+            "update_dt": "2018-02-15T18:00:00.000+00:00",
+            "id": 142306
+          }
+        ],
+        "immoralLifestyles": [
+          {
+            "id": 4993863,
+            "authority_detected": "ДП г.Астана",
+            "iin": "920121350753",
+            "citizenship_id": "105",
+            "decision_date": "2019-02-01",
+            "fine_amount": null,
+            "mv_fl_iin_id": "c2a153e0-b8cc-482b-9a72-2de8ed73a517"
+          },
+          {
+            "id": 5065311,
+            "authority_detected": "ДП г.Астана",
+            "iin": "920121350753",
+            "citizenship_id": "105",
+            "decision_date": "2023-10-01",
+            "fine_amount": null,
+            "mv_fl_iin_id": "c2a153e0-b8cc-482b-9a72-2de8ed73a517"
+          }
+        ]
+      },
+      {
+        "iin": "880820499095",
+        "criminals": [
+          {
+            "court_name": "Филиал Республиканского государственного учреждения Департамент Судебной администрации Республики Казахстан по городу Астане - Администратор межрайонного суда по уголовным делам",
+            "court_dt": "2016-11-10",
+            "iin_bin": "880820499095",
+            "decision": "осужден с назначением уголовного наказания, подлежащего отбыванию осужденным",
+            "crime_name": "Кража",
+            "crime_code": "1880002",
+            "sentence": "ограничение свободы",
+            "add_info": null,
+            "treatment": null,
+            "erdr": "166310031002910",
+            "update_dt": "2017-02-14T18:00:00.000+00:00",
+            "id": 99471
+          }
+        ],
+        "firstCreditBureauEntities": [
+          {
+            "id": 1621392,
+            "type": "Физическое лицо",
+            "creditInFoid": 230000,
+            "iin": "880820499095",
+            "region": "г. Алматы",
+            "quantityFpdSpd": 1,
+            "maxDelayDayNum1": 53,
+            "finInstitutionsName": "ТОО \"МФО \"Взаймы\"",
+            "totalCountOfCredits": 4,
+            "totalSumOfCredits": 1060664,
+            "maxDelayDayNum2": 125,
+            "relevanceDate": "2019-02-19T18:00:00.000+00:00"
+          },
+          {
+            "id": 3363949,
+            "type": "Физическое лицо",
+            "creditInFoid": 820000,
+            "iin": "880820499095",
+            "region": "г. Алматы",
+            "quantityFpdSpd": 1,
+            "maxDelayDayNum1": 48,
+            "finInstitutionsName": "ТОО \"Zaimer\"",
+            "totalCountOfCredits": 3,
+            "totalSumOfCredits": 1092584,
+            "maxDelayDayNum2": 434,
+            "relevanceDate": "2020-04-12T19:00:00.000+00:00"
+          },
+          {
+            "id": 4480052,
+            "type": "Физическое лицо",
+            "creditInFoid": 250000,
+            "iin": "880820499095",
+            "region": "г. Алматы",
+            "quantityFpdSpd": 1,
+            "maxDelayDayNum1": 3,
+            "finInstitutionsName": "ТОО \"МФО \"Взаймы\"",
+            "totalCountOfCredits": 4,
+            "totalSumOfCredits": 1086784,
+            "maxDelayDayNum2": 216,
+            "relevanceDate": "2020-08-31T18:00:00.000+00:00"
+          },
+          {
+            "id": 4745000,
+            "type": "Физическое лицо",
+            "creditInFoid": 200000,
+            "iin": "880820499095",
+            "region": "г. Алматы",
+            "quantityFpdSpd": 1,
+            "maxDelayDayNum1": 19,
+            "finInstitutionsName": "ТОО \"Zaimer\"",
+            "totalCountOfCredits": 3,
+            "totalSumOfCredits": 1093145,
+            "maxDelayDayNum2": 808,
+            "relevanceDate": "2022-01-19T19:00:00.000+00:00"
+          }
+        ]
+      },
+      {
+        "iin": "490518300373",
+        "def_rn": [
+          {
+            "cadastral_number": "14:218:017:544:308/Г2",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": null,
+            "intended_use_rus": "Сарай",
+            "intended_use_kaz": "Қора",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Алғашқы объект",
+            "property_type_rus": "Строение",
+            "property_type_kaz": "Құрылыс",
+            "area_total": "11.7",
+            "area_useful": null,
+            "floor": "0",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "23",
+            "register_transaction_amount": "0",
+            "register_reg_date": "2000-11-15 00:00:00",
+            "register_end_date": "2024-05-27 09:46:00",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 15 ноября 2000г.), Республиканское государственное казенное предприятие \"Центр по недвижимости по Павлодарской области\" Комитета регистрационной службы и оказания правовой помощи Министерства юстиции Республики Казахстан. Дата регистрации: 15.11.2000 00:00",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:544:308/Г3",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": null,
+            "intended_use_rus": "Сарай",
+            "intended_use_kaz": "Қора",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Алғашқы объект",
+            "property_type_rus": "Строение",
+            "property_type_kaz": "Құрылыс",
+            "area_total": "10.8",
+            "area_useful": null,
+            "floor": "0",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "22",
+            "register_transaction_amount": "0",
+            "register_reg_date": "2000-11-15 00:00:00",
+            "register_end_date": "2024-05-27 09:46:00",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 15 ноября 2000г.), Республиканское государственное казенное предприятие \"Центр по недвижимости по Павлодарской области\" Комитета регистрационной службы и оказания правовой помощи Министерства юстиции Республики Казахстан. Дата регистрации: 15.11.2000 00:00",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:544:308/Г2",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": null,
+            "intended_use_rus": "Сарай",
+            "intended_use_kaz": "Қора",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Алғашқы объект",
+            "property_type_rus": "Строение",
+            "property_type_kaz": "Құрылыс",
+            "area_total": "11.7",
+            "area_useful": null,
+            "floor": "0",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "23",
+            "register_transaction_amount": "0",
+            "register_reg_date": "2000-11-15 00:00:00",
+            "register_end_date": "2024-05-27 09:46:00",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 15 ноября 2000г.), Республиканское государственное казенное предприятие \"Центр по недвижимости по Павлодарской области\" Комитета регистрационной службы и оказания правовой помощи Министерства юстиции Республики Казахстан. Дата регистрации: 15.11.2000 00:00",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:544:308/Г3",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": null,
+            "intended_use_rus": "Сарай",
+            "intended_use_kaz": "Қора",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Алғашқы объект",
+            "property_type_rus": "Строение",
+            "property_type_kaz": "Құрылыс",
+            "area_total": "10.8",
+            "area_useful": null,
+            "floor": "0",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "22",
+            "register_transaction_amount": "0",
+            "register_reg_date": "2000-11-15 00:00:00",
+            "register_end_date": "2024-05-27 09:46:00",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 15 ноября 2000г.), Республиканское государственное казенное предприятие \"Центр по недвижимости по Павлодарской области\" Комитета регистрационной службы и оказания правовой помощи Министерства юстиции Республики Казахстан. Дата регистрации: 15.11.2000 00:00",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:544",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": null,
+            "intended_use_rus": "для строительства и обслуживания жилого дома",
+            "intended_use_kaz": "тұрғын үйдің кұрылысын салу және қызмет көрсету үшін",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Земельный участок",
+            "type_of_property_kaz": "Жер телімі",
+            "property_type_rus": "Земельный участок",
+            "property_type_kaz": "Жер телімі",
+            "area_total": "0.0488",
+            "area_useful": null,
+            "floor": null,
+            "estate_characteristic_status_rus": "утратила силу",
+            "estate_characteristic_status_kaz": "қүші жойылды",
+            "register_record_number": "21",
+            "register_transaction_amount": "0",
+            "register_reg_date": "2000-11-15 00:00:00",
+            "register_end_date": "2024-05-27 09:46:00",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 15 ноября 2000г.), Республиканское государственное казенное предприятие \"Центр по недвижимости по Павлодарской области\" Комитета регистрационной службы и оказания правовой помощи Министерства юстиции Республики Казахстан. Дата регистрации: 15.11.2000 00:00",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:544:308/Г1",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": null,
+            "intended_use_rus": "Гараж",
+            "intended_use_kaz": "көлікжай",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Алғашқы объект",
+            "property_type_rus": "Строение",
+            "property_type_kaz": "Құрылыс",
+            "area_total": "23",
+            "area_useful": null,
+            "floor": "0",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "13",
+            "register_transaction_amount": null,
+            "register_reg_date": "2000-11-15 00:00:00",
+            "register_end_date": "2024-05-27 12:39:37.077",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 15 ноября 2000г.), Республиканское государственное казенное предприятие \"Центр по недвижимости по Павлодарской области\" Комитета регистрационной службы и оказания правовой помощи Министерства юстиции Республики Казахстан. Дата регистрации: 15.11.2000 00:00",
+            "register_emergence_rights_kaz": "Сатып алу-сату келісім-шарты",
+            "register_termination_reason": null,
+            "register_status_rus": "аннулирована",
+            "register_status_kaz": "жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:014:198:40:23",
+            "rka_code": "1201300000764728",
+            "estate_remove_date": null,
+            "intended_use_rus": "квартира",
+            "intended_use_kaz": "пәтер",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Камзина, д. 82, кв. 23",
+            "address_kaz": "Павлодар обл., Павлодар қ., Қамзин көш., 82 ү., 23 п.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Камзина, д. 82, кв. 23",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Қамзин көш., 82 ү., 23 п.",
+            "type_of_property_rus": "Вторичный объект",
+            "type_of_property_kaz": "Екiншi объект",
+            "property_type_rus": "Квартира",
+            "property_type_kaz": "Пәтер",
+            "area_total": "33.5",
+            "area_useful": "18",
+            "floor": "6/2",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "2",
+            "register_transaction_amount": null,
+            "register_reg_date": "1993-06-21 00:00:00",
+            "register_end_date": "1997-04-12 00:00:00",
+            "register_emergence_rights_rus": "Договор дарения № 1-1267 (№ - от 18 июня 1993г.), 1-ая ГНК г. Павлодара. Дата регистрации: 21.06.1993 00:00",
+            "register_emergence_rights_kaz": "Сыйға беру шарты",
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:544:308/А",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": null,
+            "intended_use_rus": "индивидуальный жилой дом",
+            "intended_use_kaz": "жеке тұрғын үй",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Алғашқы объект",
+            "property_type_rus": "Частный дом",
+            "property_type_kaz": "Жеке үй",
+            "area_total": "86",
+            "area_useful": "70",
+            "floor": "1",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "20",
+            "register_transaction_amount": "0",
+            "register_reg_date": "2000-11-15 00:00:00",
+            "register_end_date": "2024-05-27 09:46:00",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 15 ноября 2000г.), Республиканское государственное казенное предприятие \"Центр по недвижимости по Павлодарской области\" Комитета регистрационной службы и оказания правовой помощи Министерства юстиции Республики Казахстан. Дата регистрации: 15.11.2000 00:00",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:475",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": "2023-06-25",
+            "intended_use_rus": "индивидуальный жилой дом",
+            "intended_use_kaz": "жеке тұрғын үй",
+            "estate_status_rus": "утратила силу",
+            "estate_status_kaz": "қүші жойылды",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Земельный участок",
+            "type_of_property_kaz": "Жер телімі",
+            "property_type_rus": "Земельный участок",
+            "property_type_kaz": "Жер телімі",
+            "area_total": "0.0488",
+            "area_useful": null,
+            "floor": null,
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "13",
+            "register_transaction_amount": null,
+            "register_reg_date": "2000-11-15 00:00:00",
+            "register_end_date": "2024-05-27 12:39:37.077",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 15 ноября 2000г.), Республиканское государственное казенное предприятие \"Центр по недвижимости по Павлодарской области\" Комитета регистрационной службы и оказания правовой помощи Министерства юстиции Республики Казахстан. Дата регистрации: 15.11.2000 00:00",
+            "register_emergence_rights_kaz": "Сатып алу-сату келісім-шарты",
+            "register_termination_reason": null,
+            "register_status_rus": "аннулирована",
+            "register_status_kaz": "жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:250:472:147",
+            "rka_code": "1201300217209827",
+            "estate_remove_date": null,
+            "intended_use_rus": "Жилой",
+            "intended_use_kaz": "Тұрғын",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Р.Люксембург, д. 102, кв. 147",
+            "address_kaz": "Павлодар обл., Павлодар қ., Р.Люксембург көш., 102 ү., 147 п.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Р.Люксембург, д. 102, кв. 147",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Р.Люксембург көш., 102 ү., 147 п.",
+            "type_of_property_rus": "Вторичный объект",
+            "type_of_property_kaz": "Екiншi объект",
+            "property_type_rus": "Квартира",
+            "property_type_kaz": "Пәтер",
+            "area_total": "48.2",
+            "area_useful": "28.5",
+            "floor": "9/1",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "7",
+            "register_transaction_amount": "266611",
+            "register_reg_date": "1998-09-24 00:00:00",
+            "register_end_date": "2007-09-03 14:31:00",
+            "register_emergence_rights_rus": "Договор купли-продажи ( от 22.09.1998г.), \"ЦЕНТР ПО НЕДВИЖИМОСТИ ПО ПАВЛОДАРСКОЙ ОБЛАСТИ\" КОМИТЕТА РЕГИСТРАЦИОННОЙ СЛУЖБЫ И ОКАЗАНИЯ ПРАВОВОЙ ПОМОЩИ МИНИСТЕРСТВА ЮСТИЦИИ РЕСПУБЛИКИ КАЗАХСТАН",
+            "register_emergence_rights_kaz": "Сатып алу-сату келісім-шарты",
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:250:472:148",
+            "rka_code": "1201300217209924",
+            "estate_remove_date": null,
+            "intended_use_rus": "Жилой",
+            "intended_use_kaz": "Тұрғын",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Р.Люксембург, д. 102, кв. 148",
+            "address_kaz": "Павлодар обл., Павлодар қ., Р.Люксембург көш., 102 ү., 148 п.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Р.Люксембург, д. 102, кв. 148",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Р.Люксембург көш., 102 ү., 148 п.",
+            "type_of_property_rus": "Вторичный объект",
+            "type_of_property_kaz": "Екiншi объект",
+            "property_type_rus": "Квартира",
+            "property_type_kaz": "Пәтер",
+            "area_total": "61",
+            "area_useful": "37.8",
+            "floor": "9/1",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "2",
+            "register_transaction_amount": null,
+            "register_reg_date": "1993-01-20 00:00:00",
+            "register_end_date": "2001-02-16 00:00:00",
+            "register_emergence_rights_rus": "Договор о приватизации квартиры (№ 1774 от 23.09.1992г.)",
+            "register_emergence_rights_kaz": "Пәтер жекешелендіру туралы шарт",
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:544:308/А",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": null,
+            "intended_use_rus": "индивидуальный жилой дом",
+            "intended_use_kaz": "жеке тұрғын үй",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Алғашқы объект",
+            "property_type_rus": "Частный дом",
+            "property_type_kaz": "Жеке үй",
+            "area_total": "86",
+            "area_useful": "70",
+            "floor": "1",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "20",
+            "register_transaction_amount": "0",
+            "register_reg_date": "2000-11-15 00:00:00",
+            "register_end_date": "2024-05-27 09:46:00",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 15 ноября 2000г.), Республиканское государственное казенное предприятие \"Центр по недвижимости по Павлодарской области\" Комитета регистрационной службы и оказания правовой помощи Министерства юстиции Республики Казахстан. Дата регистрации: 15.11.2000 00:00",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:018:001:82:26",
+            "rka_code": "1201300002764828",
+            "estate_remove_date": null,
+            "intended_use_rus": "квартира",
+            "intended_use_kaz": "пәтер",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Катаева, д. 42, кв. 26",
+            "address_kaz": "Павлодар обл., Павлодар қ., Катаев көш., 42 ү., 26 п.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Катаева, д. 42, кв. 26",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Катаев көш., 42 ү., 26 п.",
+            "type_of_property_rus": "Вторичный объект",
+            "type_of_property_kaz": "Екiншi объект",
+            "property_type_rus": "Квартира",
+            "property_type_kaz": "Пәтер",
+            "area_total": "45.4",
+            "area_useful": "29.6",
+            "floor": "5/4",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "6",
+            "register_transaction_amount": null,
+            "register_reg_date": "2000-07-21 00:00:00",
+            "register_end_date": "2005-02-14 10:12:00",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 21 июля 2000г.). Дата регистрации: 21.07.2000 00:00",
+            "register_emergence_rights_kaz": "Сатып алу-сату келісім-шарты",
+            "register_termination_reason": null,
+            "register_status_rus": "утратила силу",
+            "register_status_kaz": "қүші жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "14:218:017:544:308/Г1",
+            "rka_code": "0201300007779901",
+            "estate_remove_date": null,
+            "intended_use_rus": "Гараж",
+            "intended_use_kaz": "көлікжай",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331",
+            "address_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү.",
+            "address_history_rus": "обл. Павлодарская, г. Павлодар, ул. Бұқар Жырау, д. 331 (ранее: обл. Павлодарская, г. Павлодар, ул. Короленко, д. 331)",
+            "address_history_kaz": "Павлодар обл., Павлодар қ., Бұқар Жырау көш., 331 ү. (бұрын: Павлодар обл., Павлодар қ., Короленко көш., 331 ү.)",
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Алғашқы объект",
+            "property_type_rus": "Строение",
+            "property_type_kaz": "Құрылыс",
+            "area_total": "23",
+            "area_useful": null,
+            "floor": "0",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "13",
+            "register_transaction_amount": null,
+            "register_reg_date": "2000-11-15 00:00:00",
+            "register_end_date": "2024-05-27 12:39:37.077",
+            "register_emergence_rights_rus": "Договор купли-продажи № - (№ - от 15 ноября 2000г.), Республиканское государственное казенное предприятие \"Центр по недвижимости по Павлодарской области\" Комитета регистрационной службы и оказания правовой помощи Министерства юстиции Республики Казахстан. Дата регистрации: 15.11.2000 00:00",
+            "register_emergence_rights_kaz": "Сатып алу-сату келісім-шарты",
+            "register_termination_reason": null,
+            "register_status_rus": "аннулирована",
+            "register_status_kaz": "жойылды",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ",
+            "owner_iin_bin": "490518300373"
+          },
+          {
+            "cadastral_number": "17:032:0003256:0142",
+            "rka_code": "1274542987746851",
+            "estate_remove_date": null,
+            "intended_use_rus": "квартира",
+            "intended_use_kaz": "патер",
+            "estate_status_rus": "актуальная",
+            "estate_status_kaz": "өзекті",
+            "address_rus": "г. Шымкент, ул. Балдырган, д. 7",
+            "address_kaz": "г. Шымкент, ул. Балдырган, д. 7",
+            "address_history_rus": null,
+            "address_history_kaz": null,
+            "type_of_property_rus": "Первичный объект",
+            "type_of_property_kaz": "Первичный объект",
+            "property_type_rus": null,
+            "property_type_kaz": null,
+            "area_total": "308",
+            "area_useful": "269",
+            "floor": "4/12",
+            "estate_characteristic_status_rus": "актуальная",
+            "estate_characteristic_status_kaz": "өзекті",
+            "register_record_number": "",
+            "register_transaction_amount": "139900000",
+            "register_reg_date": "2025-04-26",
+            "register_end_date": null,
+            "register_emergence_rights_rus": "Договор купли-продажи № 19-2501-7845 от 26 апрель 2025г., нотариус ШАКЕНОВ Д. К. лицензия № 7853456 от 26 апрель 2025г.. Дата регистрации: 26.04.2025 10:18",
+            "register_emergence_rights_kaz": null,
+            "register_termination_reason": null,
+            "register_status_rus": "актуальная",
+            "register_status_kaz": "өзекті",
+            "owner_full_name": "АРЫНОВ НУРГАЛИ САДЕНОВИЧ"
+          }
+        ]
+      }
+    ]
+  },
+  "companies": {
+    "business_group": {
+      "bin": "201040004136",
+      "name": "ТОО Байтерек Трейд",
+      "reg_date": "2020-10-04",
+      "status": "Зарегистрировано",
+      "isResident": true,
+      "address": {
+        "reg_addr_region_ru": "Город Астана",
+        "reg_addr_district_ru": "Алматинский район",
+        "reg_addr_rural_district_ru": "",
+        "reg_addr_locality_ru": "Астана",
+        "reg_addr_street_ru": "улица Р.Кошкарбаева",
+        "reg_addr_bulding_num": "10",
+        "reg_addr_block_num": "",
+        "reg_addr_builing_body_num": "",
+        "reg_addr_office": "52",
+        "oked": "Оптовая торговля широким ассортиментом товаров без какой либо конкуренций"
+      },
+      "pension_contributions": {
+        "2021": [
+          {
+            "iin": "780130259510",
+            "name": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+            "position": "Учредитель",
+            "sum1": "90000",
+            "sum2": "60000"
+          }
+        ],
+        "2022": [
+          {
+            "iin": "780130259510",
+            "name": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+            "position": "Учредитель",
+            "sum1": "90000",
+            "sum2": "60000"
+          }
+        ],
+        "2023": [
+          {
+            "iin": "780130259510",
+            "name": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+            "position": "Учредитель",
+            "sum1": "90000",
+            "sum2": "60000"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "number": "7024442082",
+          "email": "lalqa1978@gmail.com",
+          "fioOfHead": "КОНАКБАЕВ АДИЛЬ АНУАРОВИЧ",
+          "nameOfOwner": "ТОО \"Байтерек Трейд\"",
+          "source": null,
+          "nickname": null
+        }
+      ],
+      "tax": [
+        {
+          "year": "2020",
+          "totalSum": 95487,
+          "byEmployees": 85632,
+          "byOwning": 74065,
+          "byImport": 0
+        },
+        {
+          "year": "2021",
+          "totalSum": 95487,
+          "byEmployees": 85632,
+          "byOwning": 74065,
+          "byImport": 0
+        },
+        {
+          "year": "2022",
+          "totalSum": 95487,
+          "byEmployees": 85632,
+          "byOwning": 74065,
+          "byImport": 0
+        },
+        {
+          "year": "2023",
+          "totalSum": 95487,
+          "byEmployees": 85632,
+          "byOwning": 74065,
+          "byImport": 0
+        },
+        {
+          "year": "2024",
+          "totalSum": 0,
+          "byEmployees": 0,
+          "byOwning": 0,
+          "byImport": 0
+        },
+        {
+          "year": "2025",
+          "totalSum": 0,
+          "byEmployees": 0,
+          "byOwning": 0,
+          "byImport": 0
+        }
+      ],
+      "same-address-ul": [
+        {
+          "bin": "250240008390",
+          "name": "Товарищество с ограниченной ответственностью БИЗНЕС ГРУПП КОНСАЛТИНГ",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "920121350753",
+          "fio": "МАДИЕВ АЛМАС САМАТОВИЧ",
+          "position": "Директор",
+          "date": "22-02-2025"
+        },
+        {
+          "bin": "250240012193",
+          "name": "Товарищество с ограниченной ответственностью БИЗНЕС ГРУПП КОМПАНИ",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "880820499095",
+          "fio": "ХАЙРАЛИЕВА АСИЯ НУРЖАНОВНА",
+          "position": "Директор",
+          "date": "22-03-2025"
+        },
+        {
+          "bin": "250240002390",
+          "name": "Товарищество с ограниченной ответственностью БГ-2",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "920215302304",
+          "fio": "ТӨЛЕПОВ НҰРҚИСА ӘШІМҰЛЫ",
+          "position": "Директор",
+          "date": "04-02-2025"
+        },
+        {
+          "bin": "250240012893",
+          "name": "Товарищество с ограниченной ответственностью СТРОЙ-СНАБ ГРУПП",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "901206302502",
+          "fio": "ИЗИМОВ ЕРГАЛИ САТХАНОВИЧ",
+          "position": "Директор",
+          "date": "04-02-2025"
+        }
+      ],
+      "ul-participants": [
+        {
+          "binIin": "780130259510",
+          "name": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+          "position": "Учредитель ЮЛ (Исторический)",
+          "date": "2020-10-05",
+          "risksNumber": null
+        },
+        {
+          "binIin": "780226282002",
+          "name": "КОНАКБАЕВ АДИЛЬ АНУАРОВИЧ",
+          "position": "Учредитель ЮЛ (Исторический)",
+          "date": "2023-11-05",
+          "risksNumber": null
+        }
+      ],
+      "real_estate": [
+        {
+          "header": "Коммерческое здание - офисный центр",
+          "cadastrial": "17:032:0002145:0001",
+          "areaTotal": "100.3",
+          "address": "г.Астана, пр.Республики д.15/1, БЦ Байтерек Плаза",
+          "typeOfDoc": "Акт на право собственности на здание",
+          "rightOwner": "ТОО \"Байтерек Трейд\"",
+          "numberOfDoc": "БЗ-17-БГ-2021-145987",
+          "floorness": "8 этажей",
+          "dateOfDoc": "2020-09-20",
+          "numberOfSostav": "17-032-7896541",
+          "dateOfReg": "2020-09-21",
+          "sum": "20000000",
+          "dateOfStop": null,
+          "livingArea": "0",
+          "iinBin": "201040004136",
+          "nameOfIinBin": "ТОО \"Байтерек Трейд\""
+        }
+      ],
+      "esf": {
+        "customer": [
+          {
+            "year": 2020,
+            "sum": 35000,
+            "count_contracts": 3,
+            "opposite": [
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 14000,
+                "company_name": "ТОО \"Белый Ветер KZ\"",
+                "bin_iin": "110340018293"
+              },
+              {
+                "sum_nds": 12000,
+                "company_name": "АО \"Казахтелеком\"",
+                "bin_iin": "941240000193"
+              },
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 9000,
+                "company_name": "АО \"Народный Банк Казахстана\"",
+                "bin_iin": "940140000385"
+              }
+            ]
+          },
+          {
+            "year": 2021,
+            "sum": 23000,
+            "count_contracts": 1,
+            "opposite": [
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 23000,
+                "company_name": "АО \"Казахтелеком\"",
+                "bin_iin": "941240000193"
+              }
+            ]
+          },
+          {
+            "year": 2022,
+            "sum": 23000,
+            "count_contracts": 2,
+            "opposite": [
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 12000,
+                "company_name": "АО \"Казахтелеком\"",
+                "bin_iin": "941240000193"
+              },
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 11000,
+                "company_name": "АО \"Народный Банк Казахстана\"",
+                "bin_iin": "940140000385"
+              }
+            ]
+          },
+          {
+            "year": 2023,
+            "sum": 12000,
+            "count_contracts": 1,
+            "opposite": [
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 12000,
+                "company_name": "АО \"Казахтелеком\"",
+                "bin_iin": "941240000193"
+              }
+            ]
+          },
+          {
+            "year": 2024,
+            "sum": 0,
+            "count_contracts": 0,
+            "opposite": [
+            ]
+          },
+          {
+            "year": 2025,
+            "sum": 0,
+            "count_contracts": 0,
+            "opposite": [
+            ]
+          }
+        ],
+        "supplier": [
+          {
+            "year": 2020,
+            "sum": 20412418,
+            "count_contracts": 5,
+            "opposite": [
+              {
+                "sum_nds": 8547000,
+                "company_name": "Товарищество с ограниченной ответственностью Агрофирма TNK",
+                "bin_iin": "001240000336"
+              },
+              {
+                "sum_nds": 4025893,
+                "company_name": "Товарищество с ограниченной ответственностью Lean Solutions",
+                "bin_iin": "181040009407"
+              },
+              {
+                "sum_nds": 3211979,
+                "company_name": "Товарищество с ограниченной ответственностью LOGISTIC POINT",
+                "bin_iin": "061140011517"
+              },
+              {
+                "sum_nds": 2589000,
+                "company_name": "Товарищество с ограниченной ответственностью Агрокомплект",
+                "bin_iin": "970240019622"
+              },
+              {
+                "sum_nds": 2038546,
+                "company_name": "Товарищество с ограниченной ответственностью PLAZCOM",
+                "bin_iin": "170540006456"
+              }
+            ]
+          },
+          {
+            "year": 2021,
+            "sum": 11748569,
+            "count_contracts": 3,
+            "opposite": [
+              {
+                "sum_nds": 5217693,
+                "company_name": "Товарищество с ограниченной ответственностью Real Print",
+                "bin_iin": "080840007624"
+              },
+              {
+                "sum_nds": 4171952,
+                "company_name": "Корпоративный фонд Нұрлы Астана Trust",
+                "bin_iin": "200340007742"
+              },
+              {
+                "sum_nds": 2358924,
+                "company_name": "Учреждение Университет Туран",
+                "bin_iin": "920740000620"
+              }
+            ]
+          },
+          {
+            "year": 2022,
+            "sum": 7839013,
+            "count_contracts": 3,
+            "opposite": [
+              {
+                "sum_nds": 4250785,
+                "company_name": "Филиал Товарищества с ограниченнной ответственностью «Skiff company Ltd.» –Astana",
+                "bin_iin": "080741014639"
+              },
+              {
+                "sum_nds": 1940024,
+                "company_name": "Корпоративный Фонд Роботек Фаундейшн",
+                "bin_iin": "220240039700"
+              },
+              {
+                "sum_nds": 1648204,
+                "company_name": "Товарищество с ограниченной ответственностью Астана лифт НС",
+                "bin_iin": "090840014490"
+              }
+            ]
+          },
+          {
+            "year": 2023,
+            "sum": 7254823,
+            "count_contracts": 4,
+            "opposite": [
+              {
+                "sum_nds": 852923,
+                "company_name": "Товарищество с ограниченной ответственностью Visit Astana",
+                "bin_iin": "160140014906"
+              },
+              {
+                "sum_nds": 3254642,
+                "company_name": "Товарищество с ограниченной ответственностью Shaurma group",
+                "bin_iin": "200840016066"
+              },
+              {
+                "sum_nds": 1688345,
+                "company_name": "Товарищество с ограниченной ответственностью KBK Training",
+                "bin_iin": "210240030913"
+              },
+              {
+                "sum_nds": 1458913,
+                "company_name": "Товарищество с ограниченной ответственностью DB Service Group",
+                "bin_iin": "181240015964"
+              }
+            ]
+          },
+          {
+            "year": 2024,
+            "sum": 0,
+            "count_contracts": 0,
+            "opposite": [
+            ]
+          },
+          {
+            "year": 2025,
+            "sum": 0,
+            "count_contracts": 0,
+            "opposite": [
+            ]
+          }
+        ]
+      }
+    },
+    "211040044130": {
+      "bin": "211040044130",
+      "name": "Товарищество с ограниченной ответственностью Бизнес Групп",
+      "reg_date": "2021-10-04",
+      "status": "Зарегистрировано",
+      "isResident": true,
+      "contacts": [
+        {
+          "number": "7714026785",
+          "email": "adil1978@gmail.com",
+          "fioOfHead": "КОНАКБАЕВ АДИЛЬ АНУАРОВИЧ",
+          "nameOfOwner": "ТОО \"Бизнес Групп\"",
+          "source": "БМГ",
+          "nickname": null
+        }
+      ],
+      "address": {
+        "reg_addr_region_ru": "Город Астана",
+        "reg_addr_district_ru": "Алматинский район",
+        "reg_addr_rural_district_ru": "",
+        "reg_addr_locality_ru": "Астана",
+        "reg_addr_street_ru": "улица Аманат",
+        "reg_addr_bulding_num": "11",
+        "reg_addr_block_num": "",
+        "reg_addr_builing_body_num": "",
+        "reg_addr_office": "",
+        "oked": "Деятельность в области бухгалтерского учета и аудита"
+      },
+      "esf": {
+        "customer": [
+          {
+            "year": 2025,
+            "sum": 2435985900,
+            "count_contracts": 4,
+            "opposite": [
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 878968419,
+                "date": "2025-02-22",
+                "company_name": "ТОО \"БИЗНЕС ГРУПП КОНСАЛТИНГ\"",
+                "bin_iin": "250240008390"
+              },
+              {
+                "number": "2/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 596854793,
+                "date": "2025-04-30",
+                "company_name": "ТОО \"БИЗНЕС ГРУПП КОМПАНИ\"",
+                "bin_iin": "250240012193"
+              },
+              {
+                "number": "4/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 532307968,
+                "date": "2025-08-19",
+                "company_name": "ТОО \"СТРОЙ-СНАБ ГРУПП\"",
+                "bin_iin": "250240012893"
+              },
+              {
+                "number": "3/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 427854720,
+                "date": "2025-05-15",
+                "company_name": "ТОО \"БГ-2\"",
+                "bin_iin": "250240002390"
+              }
+            ]
+          }
+        ],
+        "supplier": [
+          {
+            "year": 2025,
+            "sum": 2385369800,
+            "count_contracts": 3,
+            "opposite": [
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 954564892,
+                "date": "2025-02-15",
+                "company_name": "Товарищество с ограниченной ответственностью АСТАНА СТРОЙ 2024",
+                "bin_iin": "200240008390"
+              },
+              {
+                "number": "3/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 771062583,
+                "date": "2025-05-02",
+                "company_name": "Товарищество с ограниченной ответственностью Астана-ДорСтрой НС",
+                "bin_iin": "060140001894"
+              },
+              {
+                "number": "2/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 659742325,
+                "date": "2025-04-17",
+                "company_name": "Товарищество с ограниченной ответственностью Астана-Дизайн",
+                "bin_iin": "990240012193"
+              }
+            ]
+          }
+        ]
+      },
+      "tax": [
+        {
+          "year": "2021",
+          "totalSum": 12465,
+          "byEmployees": 8089,
+          "byOwning": 2590,
+          "byImport": 0
+        },
+        {
+          "year": "2022",
+          "totalSum": 12465,
+          "byEmployees": 8089,
+          "byOwning": 2590,
+          "byImport": 0
+        },
+        {
+          "year": "2023",
+          "totalSum": 12465,
+          "byEmployees": 8089,
+          "byOwning": 2590,
+          "byImport": 0
+        },
+        {
+          "year": "2024",
+          "totalSum": 12465,
+          "byEmployees": 8089,
+          "byOwning": 2590,
+          "byImport": 0
+        },
+        {
+          "year": "2024",
+          "totalSum": 12465,
+          "byEmployees": 8089,
+          "byOwning": 2590,
+          "byImport": 0
+        }
+      ],
+      "pension_contributions": {
+        "2021": [
+          {
+            "iin": "730514350032",
+            "name": "ТУЯКБАЕВ РУСЛАН ШЕРИЗАТОВИЧ",
+            "sum1": 2307454.0,
+            "sum2": 85516.0
+          },
+          {
+            "iin": "830718450702",
+            "name": "КАШКЕЕВА ЭЛЬМИРА ДУЛАТОВНА",
+            "sum1": 1587040.0,
+            "sum2": 52065.0
+          },
+          {
+            "iin": "860108300967",
+            "name": "БИЛЯЛОВ АМИР АЛИБЕКОВИЧ",
+            "sum1": 218852.0,
+            "sum2": 8502.0
+          }
+        ],
+        "2022": [
+          {
+            "iin": "020327501270",
+            "name": "КОВАЛЕНКО ВЛАДИСЛАВ НИКОЛАЕВИЧ",
+            "period": "2022",
+            "sum1": 62591.0,
+            "sum2": 2320.0
+          },
+          {
+            "iin": "730514350032",
+            "name": "ТУЯКБАЕВ РУСЛАН ШЕРИЗАТОВИЧ",
+            "period": "2022",
+            "sum1": 1717175.0,
+            "sum2": 63640.0
+          },
+          {
+            "iin": "941110300343",
+            "name": "МАМОНТОВ МАКСИМ ВЛАДИМИРОВИЧ",
+            "period": "2022",
+            "sum1": 1680352.0,
+            "sum2": 62272.0
+          },
+          {
+            "iin": "980502400068",
+            "name": "ТУЯКБАЕВА АМИРА РУСЛАНОВНА",
+            "period": "2022",
+            "sum1": 488386.0,
+            "sum2": 18104.0
+          },
+          {
+            "iin": "991022300126",
+            "name": "ЧЕРНЫШЕВ ЕГОР СЕРГЕЕВИЧ",
+            "period": "2022",
+            "sum1": 1149496.0,
+            "sum2": 42604.0
+          }
+        ],
+        "2023": [
+          {
+            "iin": "020327501270",
+            "name": "  ",
+            "period": "2023",
+            "sum1": 362602.0,
+            "sum2": 13438.0
+          },
+          {
+            "iin": "020327501270",
+            "name": "КОВАЛЕНКО ВЛАДИСЛАВ НИКОЛАЕВИЧ",
+            "period": "2023",
+            "sum1": 606922.0,
+            "sum2": 22493.0
+          },
+          {
+            "iin": "730514350032",
+            "name": "  ",
+            "period": "2023",
+            "sum1": 429294.0,
+            "sum2": 15910.0
+          },
+          {
+            "iin": "730514350032",
+            "name": "ТУЯКБАЕВ РУСЛАН ШЕРИЗАТОВИЧ",
+            "period": "2023",
+            "sum1": 838145.0,
+            "sum2": 31062.0
+          },
+          {
+            "iin": "830718450702",
+            "name": "  ",
+            "period": "2023",
+            "sum1": 429292.0,
+            "sum2": 15912.0
+          },
+          {
+            "iin": "830718450702",
+            "name": "КАШКЕЕВА ЭЛЬМИРА ДУЛАТОВНА",
+            "period": "2023",
+            "sum1": 429292.0,
+            "sum2": 0.0
+          },
+          {
+            "iin": "941110300343",
+            "name": "  ",
+            "period": "2023",
+            "sum1": 1256779.0,
+            "sum2": 46578.0
+          },
+          {
+            "iin": "941110300343",
+            "name": "МАМОНТОВ МАКСИМ ВЛАДИМИРОВИЧ",
+            "period": "2023",
+            "sum1": 1676286.0,
+            "sum2": 31073.0
+          },
+          {
+            "iin": "980502400068",
+            "name": "  ",
+            "period": "2023",
+            "sum1": 406741.0,
+            "sum2": 15076.0
+          },
+          {
+            "iin": "980502400068",
+            "name": "ТУЯКБАЕВА АМИРА РУСЛАНОВНА",
+            "period": "2023",
+            "sum1": 529973.0,
+            "sum2": 9642.0
+          }
+        ],
+        "2024": [
+          {
+            "iin": "741102301118",
+            "name": "ЖУМАГУЛОВ ТИМУР ЖЫГЫТЕКОВИЧ",
+            "period": "2024",
+            "sum1": 722500.0,
+            "sum2": 72250.0
+          },
+          {
+            "iin": "830718450702",
+            "name": "КАШКЕЕВА ЭЛЬМИРА ДУЛАТОВНА",
+            "period": "2024",
+            "sum1": 504092.0,
+            "sum2": 504092.0
+          },
+          {
+            "iin": "941110300343",
+            "name": "МАМОНТОВ МАКСИМ ВЛАДИМИРОВИЧ",
+            "period": "2024",
+            "sum1": 3909575.0,
+            "sum2": 390957.0
+          },
+          {
+            "iin": "980502400068",
+            "name": "ТУЯКБАЕВА АМИРА РУСЛАНОВНА",
+            "period": "2024",
+            "sum1": 808180.0,
+            "sum2": 80818.0
+          },
+          {
+            "iin": "780226282002",
+            "name": "КОНАКБАЕВ АДИЛЬ АНУАРОВИЧ",
+            "position": "руководитель",
+            "period": "2024",
+            "sum1": "820000",
+            "sum2": "386000"
+          }
+        ],
+        "2025": [
+          {
+            "iin": "741102301118",
+            "name": "ЖУМАГУЛОВ ТИМУР ЖЫГЫТЕКОВИЧ",
+            "period": "2025",
+            "sum1": 722500.0,
+            "sum2": 72250.0
+          },
+          {
+            "iin": "830718450702",
+            "name": "КАШКЕЕВА ЭЛЬМИРА ДУЛАТОВНА",
+            "period": "2025",
+            "sum1": 504092.0,
+            "sum2": 50409.0
+          },
+          {
+            "iin": "941110300343",
+            "name": "МАМОНТОВ МАКСИМ ВЛАДИМИРОВИЧ",
+            "period": "2025",
+            "sum1": 3909575.0,
+            "sum2": 390957.0
+          },
+          {
+            "iin": "980502400068",
+            "name": "ТУЯКБАЕВА АМИРА РУСЛАНОВНА",
+            "period": "2025",
+            "sum1": 808180.0,
+            "sum2": 80818.0
+          },
+          {
+            "iin": "780226282002",
+            "name": "КОНАКБАЕВ АДИЛЬ АНУАРОВИЧ",
+            "position": "руководитель",
+            "period": "2025",
+            "sum1": "820000",
+            "sum2": "386000"
+          }
+        ]
+      },
+      "ul-participants": [
+        {
+          "binIin": "780226282002",
+          "name": "КОНАКБАЕВ АДИЛЬ АНУАРОВИЧ",
+          "position": "Учредитель ЮЛ (Исторический)",
+          "date": "2021-10-05",
+          "risksNumber": null
+        }
+      ]
+    },
+    "250240008390": {
+      "bin": "250240008390",
+      "name": "ТОО \"БИЗНЕС ГРУПП КОНСАЛТИНГ\"",
+      "reg_date": "2025-02-04",
+      "status": "Зарегистрировано",
+      "isResident": true,
+      "pension_contributions": {
+        "2025": [
+          {
+            "iin": "920121350753",
+            "name": "МАДИЕВ АЛМАС САМАТОВИЧ",
+            "period": "2025",
+            "sum1": 530494.0,
+            "sum2": 53049.0
+          }
+        ]
+      },
+      "address": {
+        "reg_addr_region_ru": "Город Астана",
+        "reg_addr_district_ru": "Алматинский район",
+        "reg_addr_rural_district_ru": "",
+        "reg_addr_locality_ru": "Астана",
+        "reg_addr_street_ru": "улица Р.Кошкарбаева",
+        "reg_addr_bulding_num": "10",
+        "reg_addr_block_num": "",
+        "reg_addr_builing_body_num": "",
+        "reg_addr_office": "52",
+        "oked": "Деятельность в области бухгалтерского учета и аудита"
+      },
+      "same-address-ul": [
+        {
+          "bin": "250240008390",
+          "name": "Товарищество с ограниченной ответственностью Байтерек Трейд",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "780130259510",
+          "fio": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+          "position": "Директор",
+          "date": "22-02-2025"
+        },
+        {
+          "bin": "250240012193",
+          "name": "Товарищество с ограниченной ответственностью БИЗНЕС ГРУПП КОМПАНИ",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "880820499095",
+          "fio": "ХАЙРАЛИЕВА АСИЯ НУРЖАНОВНА",
+          "position": "Директор",
+          "date": "22-03-2025"
+        },
+        {
+          "bin": "250240002390",
+          "name": "Товарищество с ограниченной ответственностью БГ-2",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "920215302304",
+          "fio": "ТӨЛЕПОВ НҰРҚИСА ӘШІМҰЛЫ",
+          "position": "Директор",
+          "date": "04-02-2025"
+        },
+        {
+          "bin": "250240012893",
+          "name": "Товарищество с ограниченной ответственностью СТРОЙ-СНАБ ГРУПП",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "901206302502",
+          "fio": "ИЗИМОВ ЕРГАЛИ САТХАНОВИЧ",
+          "position": "Директор",
+          "date": "04-02-2025"
+        }
+      ],
+      "tax": [
+        {
+          "year": "2025",
+          "totalSum": 126.83,
+          "byEmployees": 246.83,
+          "byOwning": 100,
+          "byImport": 100
+        }
+      ],
+      "esf": {
+        "customer": [
+        ],
+        "supplier": [
+          {
+            "year": 2025,
+            "sum": 878968419,
+            "count_contracts": 1,
+            "opposite": [
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 878968419,
+                "date": "2025-02-22",
+                "company_name": "Товарищество с ограниченной ответственностью Бизнес Групп",
+                "bin_iin": "211040044130"
+              }
+            ]
+          }
+        ]
+      },
+      "ul-participants": [
+        {
+          "binIin": "920121350753",
+          "name": "МАДИЕВ АЛМАС САМАТОВИЧ",
+          "position": "Учредитель",
+          "date": "2025-02-04",
+          "risksNumber": null
+        }
+      ]
+    },
+    "250240012193": {
+      "bin": "250240012193",
+      "name": "ТОО \"БИЗНЕС ГРУПП КОМПАНИ\"",
+      "reg_date": "2025-03-04",
+      "status": "Зарегистрировано",
+      "isResident": true,
+      "address": {
+        "reg_addr_region_ru": "Город Астана",
+        "reg_addr_district_ru": "Алматинский район",
+        "reg_addr_rural_district_ru": "",
+        "reg_addr_locality_ru": "Астана",
+        "reg_addr_street_ru": "улица Р.Кошкарбаева",
+        "reg_addr_bulding_num": "10",
+        "reg_addr_block_num": "",
+        "reg_addr_builing_body_num": "",
+        "reg_addr_office": "52",
+        "oked": "Деятельность в области бухгалтерского учета и аудита"
+      },
+      "pension_contributions": {
+        "2025": [
+          {
+            "iin": "880820499095",
+            "name": "ХАЙРАЛИЕВА АСИЯ НУРЖАНОВНА",
+            "period": "2025",
+            "sum1": 530494.0,
+            "sum2": 53049.0
+          }
+        ]
+      },
+      "tax": [
+        {
+          "year": "2025",
+          "totalSum": 126.83,
+          "byEmployees": 246.83,
+          "byOwning": 100,
+          "byImport": 100
+        }
+      ],
+      "esf": {
+        "customer": [
+        ],
+        "supplier": [
+          {
+            "year": 2025,
+            "sum": 596854793,
+            "count_contracts": 1,
+            "opposite": [
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 596854793,
+                "date": "2025-04-30",
+                "company_name": "Товарищество с ограниченной ответственностью Бизнес Групп",
+                "bin_iin": "211040044130"
+              }
+            ]
+          }
+        ]
+      },
+      "ul-participants": [
+        {
+          "binIin": "880820499095",
+          "name": "ХАЙРАЛИЕВА АСИЯ НУРЖАНОВНА",
+          "position": "Директор",
+          "date": "2025-03-04",
+          "risksNumber": null
+        }
+      ],
+      "same-address-ul": [
+        {
+          "bin": "250240008390",
+          "name": "Товарищество с ограниченной ответственностью БИЗНЕС ГРУПП КОНСАЛТИНГ",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "920121350753",
+          "fio": "МАДИЕВ АЛМАС САМАТОВИЧ",
+          "position": "Директор",
+          "date": "22-02-2025"
+        },
+        {
+          "bin": "250240008390",
+          "name": "Товарищество с ограниченной ответственностью Байтерек Трейд",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "780130259510",
+          "fio": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+          "position": "Директор",
+          "date": "22-02-2025"
+        },
+        {
+          "bin": "250240002390",
+          "name": "Товарищество с ограниченной ответственностью БГ-2",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "920215302304",
+          "fio": "ТӨЛЕПОВ НҰРҚИСА ӘШІМҰЛЫ",
+          "position": "Директор",
+          "date": "04-02-2025"
+        },
+        {
+          "bin": "250240012893",
+          "name": "Товарищество с ограниченной ответственностью СТРОЙ-СНАБ ГРУПП",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "901206302502",
+          "fio": "ИЗИМОВ ЕРГАЛИ САТХАНОВИЧ",
+          "position": "Директор",
+          "date": "04-02-2025"
+        }
+      ]
+    },
+    "250240002390": {
+      "bin": "250240002390",
+      "name": "ТОО \"БГ-2\"",
+      "reg_date": "2025-02-04",
+      "status": "Зарегистрировано",
+      "isResident": true,
+      "address": {
+        "reg_addr_region_ru": "Город Астана",
+        "reg_addr_district_ru": "Алматинский район",
+        "reg_addr_rural_district_ru": "",
+        "reg_addr_locality_ru": "Астана",
+        "reg_addr_street_ru": "улица Р.Кошкарбаева",
+        "reg_addr_bulding_num": "10",
+        "reg_addr_block_num": "",
+        "reg_addr_builing_body_num": "",
+        "reg_addr_office": "52",
+        "oked": "Деятельность в области бухгалтерского учета и аудита"
+      },
+      "pension_contributions": {
+        "2025": [
+          {
+            "iin": "920215302304",
+            "name": "ТӨЛЕПОВ НҰРҚИСА ӘШІМҰЛЫ",
+            "period": "2025",
+            "sum1": 530494.0,
+            "sum2": 53049.0
+          }
+        ]
+      },
+      "tax": [
+        {
+          "year": "2025",
+          "totalSum": 126.83,
+          "byEmployees": 246.83,
+          "byOwning": 100,
+          "byImport": 100
+        }
+      ],
+      "esf": {
+        "customer": [
+        ],
+        "supplier": [
+          {
+            "year": 2025,
+            "sum": 427854720,
+            "count_contracts": 1,
+            "opposite": [
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 427854720,
+                "date": "2025-05-15",
+                "company_name": "Товарищество с ограниченной ответственностью Бизнес Групп",
+                "bin_iin": "211040044130"
+              }
+            ]
+          }
+        ]
+      },
+      "ul-participants": [
+        {
+          "binIin": "920215302304",
+          "name": "ТӨЛЕПОВ НҰРҚИСА ӘШІМҰЛЫ",
+          "position": "Учредитель ЮЛ",
+          "date": "2025-02-04",
+          "risksNumber": null
+        }
+      ],
+      "same-address-ul": [
+        {
+          "bin": "250240008390",
+          "name": "Товарищество с ограниченной ответственностью Байтерек Трейд",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "780130259510",
+          "fio": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+          "position": "Директор",
+          "date": "22-02-2025"
+        },
+        {
+          "bin": "250240012193",
+          "name": "Товарищество с ограниченной ответственностью БИЗНЕС ГРУПП КОМПАНИ",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "880820499095",
+          "fio": "ХАЙРАЛИЕВА АСИЯ НУРЖАНОВНА",
+          "position": "Директор",
+          "date": "22-03-2025"
+        },
+        {
+          "bin": "250240008390",
+          "name": "Товарищество с ограниченной ответственностью БИЗНЕС ГРУПП КОНСАЛТИНГ",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "920121350753",
+          "fio": "МАДИЕВ АЛМАС САМАТОВИЧ",
+          "position": "Директор",
+          "date": "22-02-2025"
+        },
+        {
+          "bin": "250240012893",
+          "name": "Товарищество с ограниченной ответственностью СТРОЙ-СНАБ ГРУПП",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "901206302502",
+          "fio": "ИЗИМОВ ЕРГАЛИ САТХАНОВИЧ",
+          "position": "Директор",
+          "date": "04-02-2025"
+        }
+      ]
+    },
+    "250240012893": {
+      "bin": "250240002390",
+      "name": "ТОО \"СТРОЙ-СНАБ ГРУПП\"",
+      "reg_date": "2025-01-25",
+      "status": "Зарегистрировано",
+      "isResident": true,
+      "address": {
+        "reg_addr_region_ru": "Город Астана",
+        "reg_addr_district_ru": "Алматинский район",
+        "reg_addr_rural_district_ru": "",
+        "reg_addr_locality_ru": "Астана",
+        "reg_addr_street_ru": "улица Р.Кошкарбаева",
+        "reg_addr_bulding_num": "10",
+        "reg_addr_block_num": "",
+        "reg_addr_builing_body_num": "",
+        "reg_addr_office": "52",
+        "oked": "Деятельность в области бухгалтерского учета и аудита"
+      },
+      "pension_contributions": {
+        "2025": [
+          {
+            "iin": "901206302502",
+            "name": "ИЗИМОВ ЕРГАЛИ САТХАНОВИЧ",
+            "period": "2025",
+            "sum1": 530494.0,
+            "sum2": 53049.0
+          }
+        ]
+      },
+      "tax": [
+        {
+          "year": "2025",
+          "totalSum": 126.83,
+          "byEmployees": 246.83,
+          "byOwning": 100,
+          "byImport": 100
+        }
+      ],
+      "esf": {
+        "customer": [
+        ],
+        "supplier": [
+          {
+            "year": 2025,
+            "sum": 532307968,
+            "count_contracts": 1,
+            "opposite": [
+              {
+                "number": "1/25",
+                "type": "Основной договор",
+                "status": "Исполнен",
+                "sum_nds": 532307968,
+                "date": "2025-08-19",
+                "company_name": "Товарищество с ограниченной ответственностью Бизнес Групп",
+                "bin_iin": "211040044130"
+              }
+            ]
+          }
+        ]
+      },
+      "ul-participants": [
+        {
+          "binIin": "901206302502",
+          "name": "ИЗИМОВ ЕРГАЛИ САТХАНОВИЧ",
+          "position": "Учредитель ЮЛ (Исторический)",
+          "date": "2025-01-25",
+          "risksNumber": null
+        }
+      ],
+      "same-address-ul": [
+        {
+          "bin": "250240008390",
+          "name": "Товарищество с ограниченной ответственностью Байтерек Трейд",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "780130259510",
+          "fio": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+          "position": "Директор",
+          "date": "22-02-2025"
+        },
+        {
+          "bin": "250240012193",
+          "name": "Товарищество с ограниченной ответственностью БИЗНЕС ГРУПП КОМПАНИ",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "880820499095",
+          "fio": "ХАЙРАЛИЕВА АСИЯ НУРЖАНОВНА",
+          "position": "Директор",
+          "date": "22-03-2025"
+        },
+        {
+          "bin": "250240008390",
+          "name": "Товарищество с ограниченной ответственностью БИЗНЕС ГРУПП КОНСАЛТИНГ",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "920121350753",
+          "fio": "МАДИЕВ АЛМАС САМАТОВИЧ",
+          "position": "Директор",
+          "date": "22-02-2025"
+        },
+        {
+          "bin": "250240002390",
+          "name": "Товарищество с ограниченной ответственностью БГ-2",
+          "address": "ГОРОД АСТАНА АЛМАТИНСКИЙ РАЙОН Р.КОШКАРБАЕВА 10",
+          "iinOfHead": "920215302304",
+          "fio": "ТӨЛЕПОВ НҰРҚИСА ӘШІМҰЛЫ",
+          "position": "Директор",
+          "date": "04-02-2025"
+        }
+      ]
+    },
+    "life_bin":{
+      "Astana_Design": {
+        "bin": "990240012193",
+        "status": "Зарегистрировано",
+        "isResident": true,
+        "esf": {
+          "customer": [
+            {
+              "year": 2025,
+              "sum": 659742325,
+              "count_contracts": 1,
+              "opposite": [
+                {
+                  "number": "1/25",
+                  "type": "Основной договор",
+                  "status": "Исполнен",
+                  "sum_nds": 659742325,
+                  "date": "2025-04-17",
+                  "company_name": "ТОО \"Бизнес Групп\"",
+                  "bin_iin": "211040044130"
+                }
+              ]
+            }
+          ],
+          "supplier": [
+            {
+            }
+          ]
+        }
+      },
+      "Astana_DorStroy": {
+        "bin": "060140001894",
+        "status": "Зарегистрировано",
+        "isResident": true,
+        "esf": {
+          "customer": [
+            {
+              "year": 2025,
+              "sum": 771062583,
+              "count_contracts": 1,
+              "opposite": [
+                {
+                  "number": "1/25",
+                  "type": "Основной договор",
+                  "status": "Исполнен",
+                  "sum_nds": 771062583,
+                  "date": "2025-05-02",
+                  "company_name": "ТОО \"Бизнес Групп\"",
+                  "bin_iin": "211040044130"
+                }
+              ]
+            }
+          ],
+          "supplier": [
+            {
+            }
+          ]
+        }
+      },
+      "Astana_Stroy": {
+        "bin": "200240008390",
+        "status": "Зарегистрировано",
+        "isResident": true,
+        "esf": {
+          "customer": [
+          ],
+          "supplier": [
+            {
+              "year": 2025,
+              "sum": 954564892,
+              "count_contracts": 1,
+              "opposite": [
+                {
+                  "number": "1/25",
+                  "type": "Основной договор",
+                  "status": "Исполнен",
+                  "sum_nds": 954564892,
+                  "date": "2025-02-15",
+                  "company_name": "ТОО \"Бизнес Групп\"",
+                  "bin_iin": "211040044130"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "fl_percentages": [
+    {
+      "iin": "810811200134",
+      "value": 65,
+      "risk_percentage": 11
+    },
+    {
+      "iin": "780909200134",
+      "value": 66,
+      "risk_percentage": 5
+    },
+    {
+      "iin": "780130259510",
+      "value": 63,
+      "risk_percentage": 0
+    },
+    {
+      "iin": "780226282002",
+      "value": 67,
+      "risk_percentage": 32
+    },
+    {
+      "iin": "860214300154",
+      "value": 58,
+      "risk_percentage": 0
+    },
+    {
+      "iin": "950125451892",
+      "value": 60,
+      "risk_percentage": 0
+    },
+    {
+      "iin": "920922650456",
+      "value": 57,
+      "risk_percentage": 0
+    },
+    {
+      "iin": "820407555123",
+      "value": 62,
+      "risk_percentage": 0
+    },
+    {
+      "iin": "861203450239",
+      "value": 53,
+      "risk_percentage": 0
+    },
+    {
+      "iin": "831229401035",
+      "value": 56,
+      "risk_percentage": 0
+    }
+  ],
+  "ul_percentages": [
+    {
+      "bin": "201040004136",
+      "percentage": 51,
+      "risk_percentage": 0
+    },
+    {
+      "bin": "211040044130",
+      "percentage": 39,
+      "risk_percentage": 0
+    },
+    {
+      "bin": "250240008390",
+      "percentage": 38,
+      "risk_percentage": 0
+    },
+    {
+      "bin": "250240012193",
+      "percentage": 38,
+      "risk_percentage": 0
+    },
+    {
+      "bin": "250240002390",
+      "percentage": 38,
+      "risk_percentage": 0
+    },
+    {
+      "bin": "250240012893",
+      "percentage": 38,
+      "risk_percentage": 0
+    }
+  ]
+}

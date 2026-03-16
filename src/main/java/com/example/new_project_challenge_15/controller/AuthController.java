@@ -88,7 +88,6 @@ public class AuthController {
   }
   @PostMapping("/changePassword")
   public void changePassword( @RequestParam String password, Principal principal, @RequestParam String username){
-//    System.out.println(userDetailsService.loadUserByUsernamek(principal));
     Optional<User> user = userRepository.findByUsername(username);
     if (user.isPresent()) {
       user.get().setPassword(encoder.encode(password));
