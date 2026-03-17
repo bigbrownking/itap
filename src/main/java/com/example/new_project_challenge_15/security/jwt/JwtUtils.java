@@ -16,115 +16,101 @@ import java.util.Date;
 
 @Component
 public class JwtUtils {
-  private static final Logger logger = LoggerFactory.getLogger(JwtUtils.class);
+    private static final Logger logger = LoggerFactory.getLogger(JwtUtils.class);
 
-  @Value("${jwt.public.key}")
-  private String publicKeyPEM;
+    @Value("${jwt.public.key}")
+    private String publicKeyPEM;
 
-  @Value("${bezkoder.app.jwtSecret}")
-  private String jwtSecret;
+    @Value("${bezkoder.app.jwtSecret}")
+    private String jwtSecret;
 
-  private PublicKey getPublicKey() {
-    return PublicKeyLoader.loadPublicKey(publicKeyPEM);
-  }
-
-  public String getUserNameFromJwtToken(String token) {
-    String username;
-
-    try {
-      username = Jwts.parser()
-              .setSigningKey(jwtSecret)
-              .parseClaimsJws(token)
-              .getBody()
-              .getSubject();
-
-      logger.debug("Successfully parsed token as regular JWT");
-      return username;
-
-    } catch (Exception e) {
-      logger.debug("Failed to parse as regular JWT, trying SSO token: {}", e.getMessage());
-
-      try {
-        username = Jwts.parser()
-                .setSigningKey(getPublicKey())
-                .parseClaimsJws(token)
-                .getBody()
-                .getSubject();
-
-        logger.debug("Successfully parsed token as SSO token");
-        return username;
-
-      } catch (Exception ssoException) {
-        logger.error("Failed to parse token as both regular JWT and SSO token. Regular JWT error: {}, SSO error: {}",
-                e.getMessage(), ssoException.getMessage());
-        return "";
-      }
-    }
-  }
-
-
-  public String generateJwtToken(Authentication authentication) {
-
-    UserDetailsImpl userPrincipal = (UserDetailsImpl) authentication.getPrincipal();
-
-    return Jwts.builder()
-            .setSubject((userPrincipal.getUsername()))
-            .setIssuedAt(new Date())
-            .signWith(SignatureAlgorithm.HS512, jwtSecret)
-            .compact();
-  }
-
-  public boolean validateJwtToken(String authToken) {
-    try {
-      Jwts.parser().setSigningKey(jwtSecret).parseClaimsJws(authToken);
-      return true;
-    } catch (SignatureException e) {
-      logger.error("Invalid JWT signature: {}", e.getMessage());
-    } catch (MalformedJwtException e) {
-      logger.error("Invalid JWT token: {}", e.getMessage());
-    } catch (ExpiredJwtException e) {
-      logger.error("JWT token is expired: {}", e.getMessage());
-    } catch (UnsupportedJwtException e) {
-      logger.error("JWT token is unsupported: {}", e.getMessage());
-    } catch (IllegalArgumentException e) {
-      logger.error("JWT claims string is empty: {}", e.getMessage());
+    private PublicKey getPublicKey() {
+        return PublicKeyLoader.loadPublicKey(publicKeyPEM);
     }
 
-    return false;
-  }
+    public String getUserNameFromJwtToken(String token) {
+        String username;
 
-  // for SSO
-  public boolean validateSSOToken(String token) {
-    try {
-      Jwts.parser()
-              .setSigningKey(getPublicKey())
-              .parseClaimsJws(token)
-              .getBody();
-      return true;
-    } catch (SignatureException e) {
-      logger.error("Invalid JWT signature: {}", e.getMessage());
-    } catch (MalformedJwtException e) {
-      logger.error("Invalid JWT token: {}", e.getMessage());
-    } catch (ExpiredJwtException e) {
-      logger.error("JWT token is expired: {}", e.getMessage());
-    } catch (UnsupportedJwtException e) {
-      logger.error("JWT token is unsupported: {}", e.getMessage());
-    } catch (IllegalArgumentException e) {
-      logger.error("JWT claims string is empty: {}", e.getMessage());
-    }
-    return false;
-  }
+        try {
+            username = Jwts.parser()
+                    .setSigningKey(getPublicKey())
+                    .parseClaimsJws(token)
+                    .getBody()
+                    .getSubject();
 
-  public String getTokenFromCookie(HttpServletRequest request, String cookieName) {
-    String cookieHeader = request.getHeader("Cookie");
-    if(cookieHeader != null){
-      for(String cookie : cookieHeader.split(";")){
-        String[] parts = cookie.trim().split("=", 2);
-        if(parts.length == 2 && parts[0].equals(cookieName)){
-          return parts[1];
+            logger.debug("Successfully parsed token as SSO token");
+            return username;
+
+        } catch (Exception ssoException) {
+            logger.error("Failed to parse token as both regular JWT and SSO token. Regular JWT error: {}, SSO error: {}",
+                    ssoException.getMessage(), ssoException.getMessage());
+            return "";
         }
-      }
     }
-    return null;
-  }
+
+
+    public String generateJwtToken(Authentication authentication) {
+
+        UserDetailsImpl userPrincipal = (UserDetailsImpl) authentication.getPrincipal();
+
+        return Jwts.builder()
+                .setSubject((userPrincipal.getUsername()))
+                .setIssuedAt(new Date())
+                .signWith(SignatureAlgorithm.HS512, jwtSecret)
+                .compact();
+    }
+
+    public boolean validateJwtToken(String authToken) {
+        try {
+            Jwts.parser().setSigningKey(jwtSecret).parseClaimsJws(authToken);
+            return true;
+        } catch (SignatureException e) {
+            logger.error("Invalid JWT signature: {}", e.getMessage());
+        } catch (MalformedJwtException e) {
+            logger.error("Invalid JWT token: {}", e.getMessage());
+        } catch (ExpiredJwtException e) {
+            logger.error("JWT token is expired: {}", e.getMessage());
+        } catch (UnsupportedJwtException e) {
+            logger.error("JWT token is unsupported: {}", e.getMessage());
+        } catch (IllegalArgumentException e) {
+            logger.error("JWT claims string is empty: {}", e.getMessage());
+        }
+
+        return false;
+    }
+
+    // for SSO
+    public boolean validateSSOToken(String token) {
+        try {
+            Jwts.parser()
+                    .setSigningKey(getPublicKey())
+                    .parseClaimsJws(token)
+                    .getBody();
+            return true;
+        } catch (SignatureException e) {
+            logger.error("Invalid JWT signature: {}", e.getMessage());
+        } catch (MalformedJwtException e) {
+            logger.error("Invalid JWT token: {}", e.getMessage());
+        } catch (ExpiredJwtException e) {
+            logger.error("JWT token is expired: {}", e.getMessage());
+        } catch (UnsupportedJwtException e) {
+            logger.error("JWT token is unsupported: {}", e.getMessage());
+        } catch (IllegalArgumentException e) {
+            logger.error("JWT claims string is empty: {}", e.getMessage());
+        }
+        return false;
+    }
+
+    public String getTokenFromCookie(HttpServletRequest request, String cookieName) {
+        String cookieHeader = request.getHeader("Cookie");
+        if (cookieHeader != null) {
+            for (String cookie : cookieHeader.split(";")) {
+                String[] parts = cookie.trim().split("=", 2);
+                if (parts.length == 2 && parts[0].equals(cookieName)) {
+                    return parts[1];
+                }
+            }
+        }
+        return null;
+    }
 }
