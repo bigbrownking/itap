@@ -325,8 +325,6 @@ public class ZAGSDBService {
                     nodes.add(currNode);
                 }
             }
-
-
         }
         doubleReturn doubleReturn = new doubleReturn(nodes, edges);
         for (Long id : ids) {

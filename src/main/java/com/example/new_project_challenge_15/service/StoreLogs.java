@@ -113,6 +113,46 @@ public class StoreLogs {
         }
     }
 
+    public boolean storeCar(User user, String plateNumber,
+                         String orderNum, String approvement_type,
+                         String caseNum,
+                         String orderDate,
+                         String articleName,
+                         String checkingName,
+                         String otherReasons,
+                         String organName,
+                         String sphereName,
+                         String tematikName,
+                         String rukName) {
+        try {
+            List<String> request_bodies = new ArrayList<>();
+            log log = new log();
+            String obwii = "Раскрыть связь по ТС: " + plateNumber+ ", лимит: ";
+            log.setObwii(obwii);
+            String approvement_data = placeApprovementText(orderNum, approvement_type,
+                    caseNum,
+                    orderDate,
+                    articleName,
+                    checkingName,
+                    otherReasons,
+                    organName,
+                    sphereName,
+                    tematikName,
+                    rukName);
+            log.setApprovement_data(approvement_data);
+            LocalDateTime current = LocalDateTime.now();
+            log.setUsername(user.getUsername());
+            log.setDate(current);
+            log.setRequest_body(request_bodies);
+            logsService.SaveLog(log);
+            return true;
+
+        } catch (Exception e) {
+            System.out.println(e);
+            return false;
+        }
+    }
+
     public boolean store(User user,  String lastName1, String firstName1, String fatherName1 , List<String> relations, int depth, int limit,
                          String orderNum, String approvement_type,
                          String caseNum,

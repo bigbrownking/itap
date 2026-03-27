@@ -1640,6 +1640,4 @@ public class FiPersonsService {
         doubleReturn newe = CountAll(doubleReturn);
         return newe;
     }
-
-
 }

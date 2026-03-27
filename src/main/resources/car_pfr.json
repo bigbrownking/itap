@@ -1,0 +1,213 @@
+{
+  "object": {
+    "707acx01": {
+      "nodes": [
+        {
+          "id": 1,
+          "photoDbf": null,
+          "properties": {
+            "IIN": "810811200134",
+            "brandModel": "Hyundai Accent",
+            "dateCertificate": "dateCertificate",
+            "seriesRegNumber": "TH00002885",
+            "regNumber": "707ACX01",
+            "categoryControlTc": "B",
+            "vinKuzovShassi": "33020070425989",
+            "engineVolume": "1594",
+            "weight": "1216",
+            "color": "Серый",
+            "releaseYearTc": "2020",
+            "isRegistered": true
+          },
+          "relCount": 4
+        },
+        {
+          "id": 2,
+          "photoDbf": null,
+          "properties": {
+            "Nation": "ҚАЗАҚ",
+            "Death_Status": null,
+            "Buhgalter": null,
+            "StatusPFR": null,
+            "Place_of_Birth": "ҚАЗАҚСТАН СОЛ-ҚАЗАҚСТАН АҚЖАР АУДАНЫ ТАЛШЫҚ",
+            "Pristavanie": null,
+            "Source": "MU",
+            "Notarius": null,
+            "Name": "СЕРИК",
+            "Data_Rozhdenya": "1981-08-11",
+            "Propal": null,
+            "Autditor": null,
+            "PDL": null,
+            "SroppedByOrgan": null,
+            "id": 2,
+            "Status": null,
+            "CHSI": null,
+            "StoppedBySud": null,
+            "Rozisk": null,
+            "Citizenship": "ҚАЗАҚСТАН",
+            "Status_Minzdrav": null,
+            "FIO": "ОМАРОВ СЕРИК ИБРАГИМОВИЧ",
+            "IIN": "810811200134",
+            "Doljnik": null,
+            "Family": "ОМАРОВ",
+            "Otchestvo": "ИБРАГИМОВИЧ",
+            "phone_number": null,
+            "DeadlinePassed": null
+          },
+          "relCount": 5
+        },
+        {
+          "id": 3,
+          "photoDbf": null,
+          "properties": {
+            "Nation": "ҚАЗАҚ",
+            "Death_Status": null,
+            "Buhgalter": null,
+            "StatusPFR": null,
+            "Place_of_Birth": "ҚАЗАҚСТАН ҚАРАҒАНДЫ ЖАҢААРҚА АУДАНЫ",
+            "Pristavanie": null,
+            "Source": "MU",
+            "Notarius": null,
+            "Name": "ТАЛГАТ",
+            "Data_Rozhdenya": "1978-07-28",
+            "Propal": null,
+            "Autditor": null,
+            "PDL": null,
+            "SroppedByOrgan": null,
+            "id": 3,
+            "Status": null,
+            "CHSI": null,
+            "StoppedBySud": null,
+            "Rozisk": null,
+            "Citizenship": "ҚАЗАҚСТАН",
+            "Status_Minzdrav": null,
+            "FIO": "АКИМОВ ТАЛГАТ АМАНБАЕВИЧ",
+            "IIN": "780728300118",
+            "Doljnik": null,
+            "Family": "АКИМОВ",
+            "Otchestvo": "АМАНБАЕВИЧ",
+            "phone_number": null,
+            "DeadlinePassed": null
+          },
+          "relCount": 5
+        },
+        {
+          "id": 4,
+          "photoDbf": null,
+          "properties": {
+            "Nation": "ҚАЗАҚ",
+            "Death_Status": null,
+            "Buhgalter": null,
+            "StatusPFR": null,
+            "Place_of_Birth": "ҚАЗАҚСТАН ҚАРАҒАНДЫ ҚАЛАСЫ",
+            "Pristavanie": null,
+            "Source": "MU",
+            "Notarius": null,
+            "Name": "АЙГЕРИМ",
+            "Data_Rozhdenya": "1978-09-09",
+            "Propal": null,
+            "Autditor": null,
+            "PDL": null,
+            "SroppedByOrgan": null,
+            "id": 4,
+            "Status": null,
+            "CHSI": null,
+            "StoppedBySud": null,
+            "Rozisk": null,
+            "Citizenship": "ҚАЗАҚСТАН",
+            "Status_Minzdrav": null,
+            "FIO": "АХМЕТОВА АЙГЕРИМ ЖАКСЫЛЫККЫЗЫ",
+            "IIN": "780909200134",
+            "Doljnik": null,
+            "Family": "АХМЕТОВА",
+            "Otchestvo": "ЖАКСЫЛЫККЫЗЫ",
+            "phone_number": null,
+            "DeadlinePassed": null
+          },
+          "relCount": 5
+        },
+        {
+          "id": 5,
+          "photoDbf": null,
+          "properties": {
+            "Nation": "ҚАЗАҚ",
+            "Death_Status": null,
+            "Buhgalter": null,
+            "StatusPFR": null,
+            "Place_of_Birth": "ҚАЗАҚСТАН О-ҚАЗАҚСТАН КЕНТАУ ҚАЛАСЫ",
+            "Pristavanie": null,
+            "Source": "MU",
+            "Notarius": null,
+            "Name": "ТАЛАС",
+            "Data_Rozhdenya": "1963-03-08",
+            "Propal": null,
+            "Autditor": null,
+            "PDL": null,
+            "SroppedByOrgan": null,
+            "id": 5,
+            "Status": null,
+            "CHSI": null,
+            "StoppedBySud": null,
+            "Rozisk": null,
+            "Citizenship": "ҚАЗАҚСТАН",
+            "Status_Minzdrav": null,
+            "FIO": "АРИПБАЕВ ТАЛАС КАЛАБАЕВИЧ",
+            "IIN": "630308302418",
+            "Doljnik": null,
+            "Family": "АРИПБАЕВ",
+            "Otchestvo": "КАЛАБАЕВИЧ",
+            "phone_number": null,
+            "DeadlinePassed": null
+          },
+          "relCount": 5
+        }
+      ],
+      "edges": [
+        {
+          "from": 2,
+          "to": 1,
+          "type": "OWNER",
+          "properties": {
+            "id": 10,
+            "Start_Date": "2025-07-19",
+            "End_Date": "2026-07-19",
+            "Vid_svyaziey": "Действующий владелец"
+          }
+        },
+        {
+          "from": 3,
+          "to": 1,
+          "type": "OWNER",
+          "properties": {
+            "id": 11,
+            "Start_Date": "2025-10-09",
+            "End_Date": "2026-10-09",
+            "Vid_svyaziey": "Прописан в страховке"
+          }
+        },
+        {
+          "from": 4,
+          "to": 1,
+          "type": "OWNER",
+          "properties": {
+            "id": 12,
+            "Start_Date": "2025-10-15",
+            "End_Date": "2026-10-15",
+            "Vid_svyaziey": "Прописан в страховке"
+          }
+        },
+        {
+          "from": 5,
+          "to": 1,
+          "type": "OWNER",
+          "properties": {
+            "id": 13,
+            "Start_Date": "2025-08-26",
+            "End_Date": "2026-08-26",
+            "Vid_svyaziey": "Прописан в страховке"
+          }
+        }
+      ]
+    }
+  }
+}

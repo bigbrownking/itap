@@ -10,6 +10,7 @@ import com.example.new_project_challenge_15.repository.*;
 import com.example.new_project_challenge_15.security.services.UserDetailsServiceImpl;
 import com.example.new_project_challenge_15.service.*;
 
+import com.example.new_project_challenge_15.service.pfr_case_services.CarPfrService;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -48,6 +49,8 @@ public class itapController {
     UserRolesRepo userRolesRepo;
     @Autowired
     StoreLogs storeLogs;
+    @Autowired
+    private CarPfrService carPfrService;
 
     @GetMapping("/3users1")
     public List<User> get3users(){
@@ -160,6 +163,36 @@ public class itapController {
             return null;
         }
     }
+    @GetMapping("/carTree")
+    public doubleReturn getCarTree(Principal principal, @RequestParam String plateNumber,
+                                  @RequestParam(required = false) String orderNum, @RequestParam(required = false) String approvement_type,
+                                  @RequestParam(required = false) String caseNum,
+                                  @RequestParam(required = false) String orderDate,
+                                  @RequestParam(required = false) String articleName,
+                                  @RequestParam(required = false) String checkingName,
+                                  @RequestParam(required = false) String otherReasons,
+                                  @RequestParam(required = false) String organName,
+                                  @RequestParam(required = false) String sphereName,
+                                  @RequestParam(required = false) String tematikName,
+                                  @RequestParam(required = false) String rukName) {
+        User user = userDetailsService.loadUserByUsernamek(principal);
+
+        if (storeLogs.storeCar(user, plateNumber, orderNum, approvement_type,
+                caseNum,
+                orderDate,
+                articleName,
+                checkingName,
+                otherReasons,
+                organName,
+                sphereName,
+                tematikName,
+                rukName)) {
+            return carPfrService.getCarTree(user.getId(), plateNumber);
+        } else {
+            return null;
+        }
+    }
+
     @GetMapping("/flFIOtree")
     public doubleReturn getFlTree(@RequestParam String lastName1,@RequestParam String firstName1,@RequestParam String fatherName1, @RequestParam List<String> relations, @RequestParam int depth, @RequestParam int limit, @RequestParam(required = false) String orderNum,
                                   @RequestParam(required = false) String caseNum, @RequestParam(required = false) String approvement_type,
