@@ -42,9 +42,11 @@ public class CarPfrService {
                 JsonNode carNode = objectNode.get(plateNumber);
                 JsonCarData data = new JsonCarData();
                 data.setNodes(mapper.convertValue(carNode.get("nodes"),
-                        new TypeReference<List<Map<String, Object>>>() {}));
+                        new TypeReference<List<Map<String, Object>>>() {
+                        }));
                 data.setEdges(mapper.convertValue(carNode.get("edges"),
-                        new TypeReference<List<Map<String, Object>>>() {}));
+                        new TypeReference<List<Map<String, Object>>>() {
+                        }));
                 carDataMap.put(plateNumber.toUpperCase(), data);
             });
 
@@ -99,6 +101,25 @@ public class CarPfrService {
         return CountAll(result);
     }
 
+    public doubleReturn getCarTreeByIin(Long id, String iin) {
+        JsonCarData data = carDataMap.get(iin.trim());
+        if (data == null) {
+            return new doubleReturn(new ArrayList<>(), new ArrayList<>());
+        }
+        return constructDoubleReturn(id, data);
+    }
+
+    private Long toLong(Object val) {
+        if (val == null) return null;
+        if (val instanceof Integer) return ((Integer) val).longValue();
+        if (val instanceof Long) return (Long) val;
+        try {
+            return Long.parseLong(val.toString());
+        } catch (Exception e) {
+            return null;
+        }
+    }
+
     private Map<String, Object> filterPropertiesByRole(Long userId, Map<String, Object> rawProperties) {
         Map<String, Object> properties = new HashMap<>();
         if (rawProperties == null) return properties;
@@ -138,21 +159,24 @@ public class CarPfrService {
         return node;
     }
 
-    private Long toLong(Object val) {
-        if (val == null) return null;
-        if (val instanceof Integer) return ((Integer) val).longValue();
-        if (val instanceof Long) return (Long) val;
-        try { return Long.parseLong(val.toString()); }
-        catch (Exception e) { return null; }
-    }
-
     private static class JsonCarData {
         private List<Map<String, Object>> nodes;
         private List<Map<String, Object>> edges;
 
-        public List<Map<String, Object>> getNodes() { return nodes; }
-        public void setNodes(List<Map<String, Object>> nodes) { this.nodes = nodes; }
-        public List<Map<String, Object>> getEdges() { return edges; }
-        public void setEdges(List<Map<String, Object>> edges) { this.edges = edges; }
+        public List<Map<String, Object>> getNodes() {
+            return nodes;
+        }
+
+        public void setNodes(List<Map<String, Object>> nodes) {
+            this.nodes = nodes;
+        }
+
+        public List<Map<String, Object>> getEdges() {
+            return edges;
+        }
+
+        public void setEdges(List<Map<String, Object>> edges) {
+            this.edges = edges;
+        }
     }
 }

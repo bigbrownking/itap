@@ -149,16 +149,16 @@ public class itapController {
         relations = personsService.filterRelations(user.getId(), relations);
 
         if (storeLogs.store(user, person, relations, depth, limit, orderNum, approvement_type,
-                caseNum,
-                orderDate,
-                articleName,
-                checkingName,
-                otherReasons,
-                organName,
-                sphereName,
-                tematikName,
-                rukName)) {
-            return personsService.getPersonTree(user.getId(), person, depth, limit, relations);
+                caseNum, orderDate, articleName, checkingName, otherReasons,
+                organName, sphereName, tematikName, rukName)) {
+
+            doubleReturn result = personsService.getPersonTree(user.getId(), person, depth, limit, relations);
+
+            //TODO "По файлу поиск для особых дибилов"
+            if (result == null || result.getNodes() == null || result.getNodes().isEmpty()) {
+                result = carPfrService.getCarTreeByIin(user.getId(), person);
+            }
+            return result;
         } else {
             return null;
         }
