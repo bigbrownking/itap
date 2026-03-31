@@ -1083,7 +1083,78 @@
       ]
     },
     "780130259510": {
-      "nodes": [],
+      "nodes": [
+        {
+          "id": 10,
+          "photoDbf": null,
+          "properties": {
+            "Nation": "ҚАЗАҚ",
+            "Death_Status": null,
+            "Buhgalter": null,
+            "StatusPFR": null,
+            "Place_of_Birth": "ҚАЗАҚСТАН ҚАРАҒАНДЫ ОБЛЫСЫ ҚАРАҒАНДЫ ҚАЛАСЫ",
+            "Pristavanie": null,
+            "Source": "MU",
+            "Notarius": null,
+            "Name": "АЙГЕРИМ",
+            "Data_Rozhdenya": "1978-09-09",
+            "Propal": null,
+            "Autditor": null,
+            "PDL": null,
+            "SroppedByOrgan": null,
+            "id": 10,
+            "Status": null,
+            "CHSI": null,
+            "StoppedBySud": null,
+            "Rozisk": null,
+            "Citizenship": "ҚАЗАҚСТАН",
+            "Status_Minzdrav": null,
+            "FIO": "АХМЕТОВА АЙГЕРИМ ЖАКСЫЛЫККЫЗЫ",
+            "IIN": "780909200134",
+            "Doljnik": null,
+            "Family": "АХМЕТОВА",
+            "Otchestvo": "ЖАКСЫЛЫККЫЗЫ",
+            "phone_number": null,
+            "DeadlinePassed": null
+          },
+          "relCount": 1
+        },
+        {
+          "id": 12,
+          "photoDbf": null,
+          "properties": {
+            "Nation": "ҚАЗАҚ",
+            "Death_Status": null,
+            "Buhgalter": null,
+            "StatusPFR": null,
+            "Place_of_Birth": "ҚАЗАҚСТАН АҚМОЛА ОБЛ. ЕСІЛ ҚАЛАСЫ",
+            "Pristavanie": null,
+            "Source": "MU",
+            "Notarius": null,
+            "Name": "ТАЛГАТ",
+            "Data_Rozhdenya": "1978-01-30",
+            "Propal": null,
+            "Autditor": null,
+            "PDL": null,
+            "SroppedByOrgan": null,
+            "id": 12,
+            "Status": null,
+            "CHSI": null,
+            "StoppedBySud": null,
+            "Rozisk": null,
+            "Citizenship": "ҚАЗАҚСТАН",
+            "Status_Minzdrav": null,
+            "FIO": "АРЫНОВ ТАЛГАТ КАЙРАТОВИЧ",
+            "IIN": "780130259510",
+            "Doljnik": null,
+            "Family": "АРЫНОВ",
+            "Otchestvo": "КАЙРАТОВИЧ",
+            "phone_number": null,
+            "DeadlinePassed": null
+          },
+          "relCount": 1
+        }
+      ],
       "edges": []
     }
   }
