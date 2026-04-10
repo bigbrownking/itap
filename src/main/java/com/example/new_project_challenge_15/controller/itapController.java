@@ -456,11 +456,17 @@ public class itapController {
     }
 
     @GetMapping("/shortopen")
-    public doubleReturn getShortOpen(@RequestParam Long id, @RequestParam List<String> relations, @RequestParam int limit, Principal principal) {
+    public doubleReturn getShortOpen(Long id, String text, @RequestParam List<String> relations, @RequestParam int limit, Principal principal) {
         User user = userDetailsService.loadUserByUsernamek(principal);
         relations = personsService.filterRelations(user.getId(), relations);
-        doubleReturn resul = personsService.shortOpen(user.getId(), id, relations, limit);
-        return resul;
+
+        //TODO
+        doubleReturn result = carPfrService.shortOpen(user.getId(), text);
+
+        if(result == null || result.getNodes() == null || result.getNodes().isEmpty()){
+            result = personsService.shortOpen(user.getId(), id, relations, limit);
+        }
+        return result;
     }
 
     @GetMapping("/downloadedscheme")

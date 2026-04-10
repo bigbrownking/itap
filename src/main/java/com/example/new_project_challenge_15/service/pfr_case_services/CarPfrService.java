@@ -1,5 +1,6 @@
 package com.example.new_project_challenge_15.service.pfr_case_services;
 
+import com.example.new_project_challenge_15.entity.DTO.JsonCarData;
 import com.example.new_project_challenge_15.entity.DTO.Nodes;
 import com.example.new_project_challenge_15.entity.DTO.doubleReturn;
 import com.example.new_project_challenge_15.entity.DTO.relationModel;
@@ -63,9 +64,13 @@ public class CarPfrService {
         return constructDoubleReturn(id, data);
     }
 
-//    public doubleReturn shortOpen(Long id, Long ID, List<String> relations, int limit) {
-//        return constructDoubleReturn(id, personRepo.shortOpen(ID, relations, limit));
-//    }
+    public doubleReturn shortOpen(Long id, String text) {
+        JsonCarData data = carDataMap.get(text.trim());
+        if (data == null) {
+            return new doubleReturn(new ArrayList<>(), new ArrayList<>());
+        }
+        return constructDoubleReturn(id, data);
+    }
 
     private doubleReturn constructDoubleReturn(Long userId, JsonCarData data) {
         List<Nodes> nodes = new ArrayList<>();
@@ -157,26 +162,5 @@ public class CarPfrService {
         Long rel = personRepo.countRels(node.getId());
         node.setRelCount(rel);
         return node;
-    }
-
-    private static class JsonCarData {
-        private List<Map<String, Object>> nodes;
-        private List<Map<String, Object>> edges;
-
-        public List<Map<String, Object>> getNodes() {
-            return nodes;
-        }
-
-        public void setNodes(List<Map<String, Object>> nodes) {
-            this.nodes = nodes;
-        }
-
-        public List<Map<String, Object>> getEdges() {
-            return edges;
-        }
-
-        public void setEdges(List<Map<String, Object>> edges) {
-            this.edges = edges;
-        }
     }
 }
