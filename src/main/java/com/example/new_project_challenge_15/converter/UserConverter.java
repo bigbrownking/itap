@@ -87,9 +87,8 @@ public class UserConverter {
         if (userSer.getAccess() == null) {
             return true;
         }
-        boolean isValidStatus = userSer.getAccess().equals("FIRST_CATEGORY") || userSer.getAccess().equals("SECOND_CATEGORY");
-        boolean isExpired = (userSer.getPasswordExpDate().isBefore(LocalDateTime.now()) && userSer.getStatus().equals("DISABLED"));
-        return !isValidStatus || isExpired;
+        //boolean isValidStatus = userSer.getAccess().equals("FIRST_CATEGORY") || userSer.getAccess().equals("SECOND_CATEGORY");
+        return (userSer.getPasswordExpDate().isBefore(LocalDateTime.now()) && userSer.getStatus().equals("DISABLED"));
     }
 
     private boolean needsUpdate(User existingUser, User convertedUser, UserSer userSer) {
